@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-    <title>Home - Women Empowerment NGO</title>
+    <title><?= config::name(); ?></title>
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="en_US" />
@@ -76,10 +76,10 @@
         })(window,document,'script','dataLayer','GTM-PW78FQ8');</script>
 
 
-    <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="assets/uploads/sites/632/2020/07/cropped-favicon-free-img-32x32.png" sizes="32x32" />
-    <link rel="icon" href="assets/uploads/sites/632/2020/07/cropped-favicon-free-img-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="assets/uploads/sites/632/2020/07/cropped-favicon-free-img-180x180.png" />
-    <meta name="msapplication-TileImage" content="https://websitedemos.net/women-empowerment-02/assets/uploads/sites/632/2020/07/cropped-favicon-free-img-270x270.png" />
+    <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="assets/images/favicon.png" sizes="64x64" />
+    <link rel="icon" href="assets/images/favicon.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="assets/images/favicon.png" />
+    <meta name="msapplication-TileImage" content="assets/images/favicon.png" />
 </head>
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-6 wp-custom-logo ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header astra-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.0.3 elementor-default elementor-kit-20 elementor-page elementor-page-6">
 

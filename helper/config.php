@@ -28,7 +28,7 @@ class config {
     }
 
     public static function name() {
-        return "Codekago Interactive";
+        return "Life Pith";
     }
 
 
