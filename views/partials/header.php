@@ -105,13 +105,13 @@
                                     <div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-hb-menu-1">
                                         <div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-26"><a href="index.html" aria-current="page" class="menu-link">Home</a></li>
                                                             <li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="about-us/index.html" class="menu-link">About Us</a></li>
-                                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="what-we-do/index.html" class="menu-link">What We Do</a></li>
-                                                            <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="events/index.html" class="menu-link">Events</a></li>
-                                                            <li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="gallery/index.html" class="menu-link">Gallery</a></li>
+                                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="what-we-do/index.html" class="menu-link">Who we are</a></li>
+                                                            <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="events/index.html" class="menu-link">Our theory of change</a></li>
+<!--                                                            <li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="gallery/index.html" class="menu-link">Gallery</a></li>-->
                                                             <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact/index.html" class="menu-link">Contact</a></li>
                                                         </ul></div></nav></div></div> </div>
                                     <div class="ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1" data-section="section-hb-button-1">
-                                        <div class="ast-builder-button-wrap"><a class="ast-custom-button-link" href="#" target="_self"><div class=ast-custom-button>donate</div></a><a class="menu-link" href="#" target="_self">donate</a></div> </div>
+                                        <div class="ast-builder-button-wrap"><a class="ast-custom-button-link" href="#" target="_self"><div class=ast-custom-button>Get involved</div></a><a class="menu-link" href="#" target="_self">Get involved</a></div> </div>
                                 </div>
                             </div>
                         </div>
@@ -151,10 +151,9 @@
             <div class="ast-mobile-header-content content-align-flex-start ">
                 <div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-hb-menu-1">
                     <div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-26"><a href="index.html" aria-current="page" class="menu-link">Home</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="about-us/index.html" class="menu-link">About Us</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="what-we-do/index.html" class="menu-link">What We Do</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="events/index.html" class="menu-link">Events</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="gallery/index.html" class="menu-link">Gallery</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="about-us/index.html" class="menu-link">Who we are</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="what-we-do/index.html" class="menu-link">Our theory of change</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="events/index.html" class="menu-link">Blog</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact/index.html" class="menu-link">Contact</a></li>
                                     </ul></div></nav></div></div> </div>
             </div>
