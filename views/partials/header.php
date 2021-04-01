@@ -38,6 +38,7 @@
     <link rel='stylesheet' id='elementor-post-6-css' href='assets/uploads/sites/632/elementor/css/post-6-ver=1614752291.css' media='all' />
     <link rel='stylesheet' id='elementor-post-6-css' href='assets/uploads/sites/632/elementor/css/post-8-ver=1614756159.css' media='all' />
     <link rel='stylesheet' id='elementor-post-6-css' href='assets/uploads/sites/632/elementor/css/post-14-ver=1614756179.css' media='all' />
+    <link rel='stylesheet' id='elementor-post-6-css' href='assets/uploads/sites/632/elementor/css/post-10-ver=1614756219.css' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.6.2' media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min-ver=5.15.1.css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/regular.min-ver=5.15.1.css' media='all' />
@@ -93,7 +94,7 @@
                                                             <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="about" class="menu-link">Who we are</a></li>
                                                             <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="theory" class="menu-link">Our theory of change</a></li>
                                                            <li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="gallery/index.html" class="menu-link">Blog</a></li>
-                                                            <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact/index.html" class="menu-link">Contact Us</a></li>
+                                                            <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact" class="menu-link">Contact Us</a></li>
                                                         </ul></div></nav></div></div> </div>
                                     <div class="ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1" data-section="section-hb-button-1">
                                         <div class="ast-builder-button-wrap"><a class="ast-custom-button-link" href="#" target="_self"><div class=ast-custom-button>Get involved</div></a><a class="menu-link" href="#" target="_self">Get involved</a></div> </div>
@@ -139,7 +140,7 @@
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="about" class="menu-link">Who we are</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="theory" class="menu-link">Our theory of change</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="events/index.html" class="menu-link">Blog</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact/index.html" class="menu-link">Contact</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact" class="menu-link">Contact</a></li>
                                     </ul></div></nav></div></div> </div>
             </div>
         </div>
