@@ -291,7 +291,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-f66a07e elementor-widget elementor-widget-heading" data-id="f66a07e" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">17 July, 2020</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Team Lead role.</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-33ef1d0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="33ef1d0" data-element_type="widget" data-widget_type="divider.default">
@@ -304,17 +304,17 @@
                                             </div>
                                             <div class="elementor-element elementor-element-442fe04 elementor-widget elementor-widget-heading" data-id="442fe04" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Education Programmes that lorem ipsum</a></h4>
+                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Rebecca Udom</a></h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-c000ad2 elementor-widget elementor-widget-text-editor" data-id="c000ad2" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis nec a odio.</p>
+                                                        <p>“Our society has a ton of problems. One that stands tall is ineffective leadership. If the youths will be the leaders of tomorrow, then the time to develop them is now and it should not be limited.”</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-a4e55ec elementor-align-justify elementor-widget elementor-widget-button" data-id="a4e55ec" data-element_type="widget" data-widget_type="button.default">
+                                            <!--<div class="elementor-element elementor-element-a4e55ec elementor-align-justify elementor-widget elementor-widget-button" data-id="a4e55ec" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
                                                         <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
@@ -324,7 +324,7 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -333,7 +333,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-bd4a091 elementor-widget elementor-widget-heading" data-id="bd4a091" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">29 June, 2020</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Analyst role</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-0583ee1 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0583ee1" data-element_type="widget" data-widget_type="divider.default">
@@ -346,17 +346,17 @@
                                             </div>
                                             <div class="elementor-element elementor-element-44acbff elementor-widget elementor-widget-heading" data-id="44acbff" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Sunt in culpa qui Officia Deserunt mollit anim</a></h4>
+                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Emmanuel Burma</a></h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-e0f6252 elementor-widget elementor-widget-text-editor" data-id="e0f6252" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis nec a odio.</p>
+                                                        <p>“Adequate and effective societal development cannot be achieved without technology. Life Pith Nigeria looks to incorporate the right balance of technological education for students in marginalized communities.”</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-e4ec89e elementor-align-justify elementor-widget elementor-widget-button" data-id="e4ec89e" data-element_type="widget" data-widget_type="button.default">
+                                            <!--<div class="elementor-element elementor-element-e4ec89e elementor-align-justify elementor-widget elementor-widget-button" data-id="e4ec89e" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
                                                         <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
@@ -366,7 +366,7 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -375,7 +375,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-b856ddd elementor-widget elementor-widget-heading" data-id="b856ddd" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">5 May, 2020</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Monitoring and Evaluation</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-40b2903 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="40b2903" data-element_type="widget" data-widget_type="divider.default">
@@ -388,17 +388,17 @@
                                             </div>
                                             <div class="elementor-element elementor-element-0d2921e elementor-widget elementor-widget-heading" data-id="0d2921e" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Fugit, sed quia magni dolores eos qui Ratione</a></h4>
+                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Mary Asanga</a></h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-2bfa446 elementor-widget elementor-widget-text-editor" data-id="2bfa446" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis nec a odio.</p>
+                                                        <p>"The foundation of a building determines its stand. Life Pith Nigeria is all about building sustainable foundations for young people."</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-83a9d24 elementor-align-justify elementor-widget elementor-widget-button" data-id="83a9d24" data-element_type="widget" data-widget_type="button.default">
+                                            <!--<div class="elementor-element elementor-element-83a9d24 elementor-align-justify elementor-widget elementor-widget-button" data-id="83a9d24" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
                                                         <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
@@ -408,7 +408,7 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
