@@ -74,7 +74,7 @@
                                             <div class="elementor-element elementor-element-7f5aa4f elementor-widget elementor-widget-button" data-id="7f5aa4f" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                        <a href="about" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-text">Read more</span>
                                                             </span>
@@ -117,7 +117,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-c8a49dc elementor-widget elementor-widget-heading" data-id="c8a49dc" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">Education programmes that lorem ipsum</a></h5>
+                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">Provision of educative publications for young leaders</a></h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -136,7 +136,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-452366d elementor-widget elementor-widget-heading" data-id="452366d" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Health care</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Seminars</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-792f1f3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="792f1f3" data-element_type="widget" data-widget_type="divider.default">
@@ -149,7 +149,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-c0ae1bf elementor-widget elementor-widget-heading" data-id="c0ae1bf" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">Free counselling sed odio sit amet nibh velit</a></h5>
+                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">seminars and development trainings</a></h5>
                                                 </div>
                                             </div>
                                         </div>
