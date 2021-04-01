@@ -50,7 +50,17 @@
                                             </div>
                                             <div class="elementor-element elementor-element-6b374d6 elementor-widget elementor-widget-text-editor" data-id="6b374d6" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-text-editor elementor-clearfix"><p>Our society bears the burden of birthing young leaders devoid of knowledge on how to thrive and create positive impact. A problem that stems from a mismanaged and non-inclusive educational system that we take no pride in. Gradually our educational system increases in number but not in corresponding quality and inclusiveness especially in low income communities.</p></div>
+                                                    <div class="elementor-element elementor-element-a44fa29 elementor-widget elementor-widget-text-editor" data-id="a44fa29" data-element_type="widget" data-widget_type="text-editor.default">
+                                                        <div class="elementor-widget-container">
+                                                            <div class="elementor-text-editor elementor-clearfix">Theory of Change</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-row">
+                                                        <div class="elementor-text-editor elementor-column elementor-col-66 elementor-top-column elementor-clearfix"><p>Our society bears the burden of birthing young leaders devoid of knowledge on how to thrive and create positive impact. A problem that stems from a mismanaged and non-inclusive educational system that we take no pride in. Gradually our educational system increases in number but not in corresponding quality and inclusiveness especially in low income communities.</p></div>
+                                                        <div class="elementor-column elementor-col-66 mb--top">
+                                                            <img class="theory-center-image" src="assets/images/center.jpeg" alt="">
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

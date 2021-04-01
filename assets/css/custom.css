@@ -4,6 +4,16 @@
     border-color: #000000;
 }
 
+.mb--top {
+    margin-top: 0;
+}
+
 .mb--bottom {
     margin-bottom: 40px !important;
+}
+
+@media screen and (min-width: 790px) {
+    .mb--top {
+        margin-top: -40px !important;
+    }
 }
