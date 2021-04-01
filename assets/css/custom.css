@@ -14,9 +14,6 @@
 
 @media screen and (min-width: 790px) {
 
-    .mb--top {
-        margin-top: 0;
-    }
 
     .theory-p {
         padding-right: 30px;
@@ -27,8 +24,8 @@
     }
 }
 
-/*@media screen and (max-width: 1000px) {
+@media screen and (max-width: 414px) {
     .mb--top {
         margin-top: 0;
     }
-}*/
+}
