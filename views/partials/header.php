@@ -141,7 +141,12 @@
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="theory" class="menu-link">Our theory of change</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="events/index.html" class="menu-link">Blog</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact" class="menu-link">Contact</a></li>
-                                    </ul></div></nav></div></div> </div>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </header>
