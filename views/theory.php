@@ -50,7 +50,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-6b374d6 elementor-widget elementor-widget-text-editor" data-id="6b374d6" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-text-editor elementor-clearfix"><p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste.</p></div>
+                                                    <div class="elementor-text-editor elementor-clearfix"><p>Our society bears the burden of birthing young leaders devoid of knowledge on how to thrive and create positive impact. A problem that stems from a mismanaged and non-inclusive educational system that we take no pride in. Gradually our educational system increases in number but not in corresponding quality and inclusiveness especially in low income communities.</p></div>
                                                 </div>
                                             </div>
                                         </div>
