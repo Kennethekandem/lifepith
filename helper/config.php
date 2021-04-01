@@ -12,7 +12,7 @@ class config {
 
     public static function base() {
 
-        return 'https://lifepith.dev';
+        return 'https://lifepith.test';
     }
 
     public static function production() {
