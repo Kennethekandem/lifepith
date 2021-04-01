@@ -12,19 +12,19 @@
                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9425a57" data-id="9425a57" data-element_type="column">
                                     <div class="elementor-column-wrap elementor-element-populated">
                                         <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-6170177 elementor-widget elementor-widget-text-editor" data-id="6170177" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <!-- <div class="elementor-element elementor-element-6170177 elementor-widget elementor-widget-text-editor" data-id="6170177" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-text-editor elementor-clearfix">100+ projects across the globe</div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                             <div class="elementor-element elementor-element-f07b0e2 elementor-widget elementor-widget-heading" data-id="f07b0e2" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h1 class="elementor-heading-title elementor-size-default">Women In Action</h1>
+                                                    <h1 class="elementor-heading-title elementor-size-default">Welcome!</h1>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-7a5fe2b elementor-widget elementor-widget-heading" data-id="7a5fe2b" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default">We work towards ensuring a life free from inequality and discrimination for every woman. </h5>
+                                                    <h5 class="elementor-heading-title elementor-size-default">We are a youth-focused body committed to grooming young leaders with adequate knowledge for leadership, personal and societal development.</h5>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-64b78e5 elementor-align-center elementor-widget elementor-widget-button" data-id="64b78e5" data-element_type="widget" data-widget_type="button.default">
