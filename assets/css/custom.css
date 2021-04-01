@@ -16,4 +16,8 @@
     .mb--top {
         margin-top: -40px !important;
     }
+
+    .theory-p {
+        width: 95%;
+    }
 }
