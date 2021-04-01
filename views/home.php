@@ -53,17 +53,22 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-a44fa29 elementor-widget elementor-widget-text-editor" data-id="a44fa29" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-text-editor elementor-clearfix">About us</div>
+                                                    <div class="elementor-text-editor elementor-clearfix">Our Vision</div>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-c388319 elementor-widget elementor-widget-heading" data-id="c388319" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">Helping women never doubt that they are <strong><u>Valuable &amp; Powerful</u></strong></h2>
+                                                    <h4 class="elementor-heading-title elementor-size-default">We see a global community of well-informed, principled and equipped young leaders with knowledge for personal and societal development to drive Nigeria to it’s peak potential.</h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-7426251 elementor-widget elementor-widget-text-editor" data-id="7426251" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-text-editor elementor-clearfix">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum elit consequat odio tincidunt auctor.</div>
+                                                    <div class="elementor-element elementor-element-a44fa29 elementor-widget elementor-widget-text-editor" data-id="a44fa29" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-text-editor elementor-clearfix">Our Mission</div>
+                                                    </div>
+                                                </div>
+                                                    <div class="elementor-text-editor elementor-clearfix">To educate, equip and foster the growth of young leaders particularly in marginalized communities by providing the knowledge, research materials and skills necessary for their development.</div>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-7f5aa4f elementor-widget elementor-widget-button" data-id="7f5aa4f" data-element_type="widget" data-widget_type="button.default">
