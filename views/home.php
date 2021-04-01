@@ -291,7 +291,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-f66a07e elementor-widget elementor-widget-heading" data-id="f66a07e" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Team Lead role.</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Team Lead role</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-33ef1d0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="33ef1d0" data-element_type="widget" data-widget_type="divider.default">
@@ -314,17 +314,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!--<div class="elementor-element elementor-element-a4e55ec elementor-align-justify elementor-widget elementor-widget-button" data-id="a4e55ec" data-element_type="widget" data-widget_type="button.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-button-wrapper">
-                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                            <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Read more</span>
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -356,17 +345,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!--<div class="elementor-element elementor-element-e4ec89e elementor-align-justify elementor-widget elementor-widget-button" data-id="e4ec89e" data-element_type="widget" data-widget_type="button.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-button-wrapper">
-                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                            <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Read more</span>
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -398,17 +376,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!--<div class="elementor-element elementor-element-83a9d24 elementor-align-justify elementor-widget elementor-widget-button" data-id="83a9d24" data-element_type="widget" data-widget_type="button.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-button-wrapper">
-                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                            <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Read more</span>
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
