@@ -168,7 +168,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-ee605ae elementor-widget elementor-widget-heading" data-id="ee605ae" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Awareness</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Educare</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-d56bed6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="d56bed6" data-element_type="widget" data-widget_type="divider.default">
@@ -181,7 +181,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-7ea5748 elementor-widget elementor-widget-heading" data-id="7ea5748" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">Local community forum ullamco nunc</a></h5>
+                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">provision of educare materials</a></h5>
                                                 </div>
                                             </div>
                                         </div>
