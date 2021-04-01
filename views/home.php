@@ -32,7 +32,7 @@
                                                     <div class="elementor-button-wrapper">
                                                         <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Donate</span>
+                                                                <span class="elementor-button-text">Get Involved</span>
                                                             </span>
                                                         </a>
                                                     </div>
@@ -396,19 +396,6 @@
                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                 <div class="elementor-background-overlay"></div>
                                                                 <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-21a837a elementor-widget elementor-widget-heading" data-id="21a837a" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <h6 class="elementor-heading-title elementor-size-default">Our values</h6>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="elementor-element elementor-element-f12af0a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="f12af0a" data-element_type="widget" data-widget_type="divider.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-divider">
-                                                                                <span class="elementor-divider-separator">
-                                                                                </span>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
                                                                     <div class="elementor-element elementor-element-8228540 elementor-widget elementor-widget-heading" data-id="8228540" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
                                                                             <h5 class="elementor-heading-title elementor-size-default">Influencing the way people, organisations, and movements think and act.</h5>
@@ -455,49 +442,6 @@
                                                             Measurable impact
                                                         </li>
                                                     </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="elementor-section elementor-top-section elementor-element elementor-element-97b9f83 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="97b9f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                        <div class="elementor-container elementor-column-gap-no">
-                            <div class="elementor-row">
-                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a5e91c" data-id="3a5e91c" data-element_type="column">
-                                    <div class="elementor-column-wrap elementor-element-populated">
-                                        <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-f47f12b elementor-widget elementor-widget-heading" data-id="f47f12b" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Our partners</h6>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-daaed22 elementor-widget elementor-widget-image-carousel" data-id="daaed22" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;5&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;slides_to_show_tablet&quot;:&quot;3&quot;,&quot;slides_to_show_mobile&quot;:&quot;2&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
-                                                        <div class="elementor-image-carousel swiper-wrapper">
-                                                            <div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="daaed22" data-elementor-lightbox-title="partners-logo-01-free-img" href="#">
-                                                                    <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="assets/uploads/sites/632/2020/07/partners-logo-01-free-img.png" alt="Logo Image" /></figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="daaed22" data-elementor-lightbox-title="partners-logo-04-free-img" href="#">
-                                                                    <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="assets/uploads/sites/632/2020/07/partners-logo-04-free-img.png" alt="Logo Image" /></figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="daaed22" data-elementor-lightbox-title="partners-logo-02-free-img" href="#">
-                                                                    <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="assets/uploads/sites/632/2020/07/partners-logo-02-free-img.png" alt="Logo Image" /></figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="daaed22" data-elementor-lightbox-title="partners-logo-05-free-img" href="#">
-                                                                    <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="assets/uploads/sites/632/2020/07/partners-logo-05-free-img.png" alt="Logo Image" /></figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="daaed22" data-elementor-lightbox-title="partners-logo-06-free-img" href="#">
-                                                                    <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="assets/uploads/sites/632/2020/07/partners-logo-06-free-img.png" alt="Logo Image" /></figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="daaed22" data-elementor-lightbox-title="partners-logo-003-free-img" href="#">
-                                                                    <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="assets/uploads/sites/632/2020/07/partners-logo-003-free-img.png" alt="Logo Image" /></figure>
-                                                                </a></div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
