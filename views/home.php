@@ -398,7 +398,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-21a837a elementor-widget elementor-widget-heading" data-id="21a837a" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h6 class="elementor-heading-title elementor-size-default">Our impact</h6>
+                                                                            <h6 class="elementor-heading-title elementor-size-default">Our values</h6>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-f12af0a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="f12af0a" data-element_type="widget" data-widget_type="divider.default">
@@ -428,7 +428,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-290562f elementor-widget elementor-widget-heading" data-id="290562f" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default">Annual Reports</h5>
+                                                    <h5 class="elementor-heading-title elementor-size-default">Our values</h5>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-fdf4825 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="fdf4825" data-element_type="widget" data-widget_type="divider.default">
@@ -443,34 +443,16 @@
                                                 <div class="elementor-widget-container">
                                                     <ul class="elementor-icon-list-items">
                                                         <li class="elementor-icon-list-item">
-                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="far fa-file-pdf"></i> </span>
-                                                                <span class="elementor-icon-list-text">2019 / 2020 - Annual Report</span>
-                                                            </a>
+                                                            Commitment
                                                         </li>
                                                         <li class="elementor-icon-list-item">
-                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="far fa-file-pdf"></i> </span>
-                                                                <span class="elementor-icon-list-text">2018 / 2019 - Annual Report</span>
-                                                            </a>
+                                                            Effective communication
                                                         </li>
                                                         <li class="elementor-icon-list-item">
-                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="far fa-file-pdf"></i> </span>
-                                                                <span class="elementor-icon-list-text">2017 / 2018 - Annual Report</span>
-                                                            </a>
+                                                            Innovation
                                                         </li>
                                                         <li class="elementor-icon-list-item">
-                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="far fa-file-pdf"></i> </span>
-                                                                <span class="elementor-icon-list-text">2016 / 2017 - Annual Report</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="elementor-icon-list-item">
-                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                    <i aria-hidden="true" class="far fa-file-pdf"></i> </span>
-                                                                <span class="elementor-icon-list-text">2015 / 2016 - Annual Report</span>
-                                                            </a>
+                                                            Measurable impact
                                                         </li>
                                                     </ul>
                                                 </div>
