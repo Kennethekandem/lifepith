@@ -279,6 +279,11 @@
                         </div>
                     </section>
                     <section class="elementor-section elementor-top-section elementor-element elementor-element-2bc1e23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bc1e23" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                        <div class="elementor-element elementor-element-f47f12b elementor-widget mb--bottom elementor-widget-heading" data-id="f47f12b" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <h6 class="elementor-heading-title elementor-size-default">Our team</h6>
+                            </div>
+                        </div>
                         <div class="elementor-container elementor-column-gap-no">
                             <div class="elementor-row">
                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-539814f" data-id="539814f" data-element_type="column">

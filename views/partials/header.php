@@ -9,22 +9,7 @@
     <title><?= config::name(); ?></title>
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link rel="canonical" href="index.html" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Home - Women Empowerment NGO" />
-    <meta property="og:description" content="100+ projects across the globe Women In Action We work towards ensuring a life free from inequality and discrimination for every woman. Donate About us Helping women never doubt that they are Valuable &amp; Powerful Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit ipsum, nec sagittis sem nibh &hellip; Home Read More &raquo;" />
-    <meta property="og:url" content="https://websitedemos.net/women-empowerment-02/" />
-    <meta property="og:site_name" content="Women Empowerment NGO" />
-    <meta property="article:modified_time" content="2021-01-19T07:46:26+00:00" />
-    <meta property="og:image" content="assets/uploads/sites/632/2020/07/what-we-do-01-free-img.jpg" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:label1" content="Est. reading time">
-    <meta name="twitter:data1" content="6 minutes">
 
-    <link rel='dns-prefetch' href='https://fonts.googleapis.com' />
-    <link rel='dns-prefetch' href='https://s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Women Empowerment NGO &raquo; Feed" href="feed/index.rss" />
-    <link rel="alternate" type="application/rss+xml" title="Women Empowerment NGO &raquo; Comments Feed" href="comments/feed/index.rss" />
     <script src="assets/js/top.js"></script>
     <style>img.wp-smiley,
         img.emoji {
