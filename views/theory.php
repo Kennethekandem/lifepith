@@ -18,7 +18,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-ece90bc elementor-widget elementor-widget-heading" data-id="ece90bc" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h1 class="elementor-heading-title elementor-size-default">What We Do</h1> </div>
+                                                    <h1 class="elementor-heading-title elementor-size-default">Our Theory of Change</h1> </div>
                                             </div>
                                         </div>
                                     </div>
