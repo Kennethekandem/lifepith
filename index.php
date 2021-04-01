@@ -67,10 +67,7 @@ foreach($routes as $route)
 Now, $routes will contain all the routes. $routes[0] will correspond to first route. For e.g. in above example $routes[0] is search, $routes[1] is book and $routes[2] is fitzgerald
 */
 
-$pages = array("home", "about", "team", "workshop", "internship", "design", "contact", "careers", "branding", "bootcamp", "audiovisual", "marketing");
-
-$transparent_pages = array("internship", "bootcamp", "workshop", "careers");
-//$white_button = array("internship");
+$pages = array("home", "about", "theory");
 
 if ($routes[1] != '') {
 
@@ -88,12 +85,6 @@ if ($routes[1] != '') {
     $page = 'home';
 }
 
-if($page == 'mail')
-{
-    require($page. '.php');
-}else
-{
-    require('views/partials/header.php');
-    require('views/'.$page.'.php');
-    require('views/partials/footer.php');
-}
+require('views/partials/header.php');
+require('views/'.$page.'.php');
+require('views/partials/footer.php');
