@@ -5,7 +5,7 @@
 }
 
 .mb--top {
-    margin-top: 0;
+    margin-top: -40px;
 }
 
 .mb--bottom {
@@ -13,8 +13,9 @@
 }
 
 @media screen and (min-width: 790px) {
+
     .mb--top {
-        margin-top: -40px !important;
+        margin-top: 0;
     }
 
     .theory-p {
@@ -25,3 +26,9 @@
         line-height: normal;
     }
 }
+
+/*@media screen and (max-width: 1000px) {
+    .mb--top {
+        margin-top: 0;
+    }
+}*/
