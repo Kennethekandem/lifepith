@@ -58,9 +58,9 @@
                                                     <div class="elementor-row">
                                                         <div class="elementor-text-editor elementor-column elementor-col-66 elementor-top-column elementor-clearfix" align="justify">
                                                             <p class="theory-p">Our society bears the burden of birthing young leaders devoid of knowledge on how to thrive and create positive impact. A problem that stems from a mismanaged and non-inclusive educational system that we take no pride in. Gradually our educational system increases in number but not in corresponding quality and inclusiveness especially in low income communities.
-                                                                <br>
-                                                                <q><b>“The foundation of every state is the education of its youth.” - Diogenes</b></q>
-                                                                <br>
+                                                                <br><br>
+                                                                <q class="big-qoute"><b>“The foundation of every state is the education of its youth.”</b> - Diogenes</q>
+                                                                <br><br>
                                                                 Sadly, the term “education” has been limited to grades and basic information in the four walls of a classroom. A significant number of youths step out of this, oblivious of life’s realities and skills, thereby adding to the pile of youths having nugatory effect on the society.
                                                             </p>
 <!--                                                            <p>“The foundation of every state is the education of its youth.” - Diogenes</p>-->

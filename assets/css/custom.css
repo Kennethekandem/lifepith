@@ -20,4 +20,8 @@
     .theory-p {
         padding-right: 30px;
     }
+    .big-qoute {
+        font-size: 2rem;
+        line-height: normal;
+    }
 }
