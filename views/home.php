@@ -241,12 +241,12 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-ce46d62 elementor-widget elementor-widget-heading" data-id="ce46d62" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Events</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Blogs</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-e3a0db7 elementor-widget elementor-widget-heading" data-id="e3a0db7" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">We organize inclusive events for <b><u>Women &amp; Girls</u></b></h2>
+                                                    <h2 class="elementor-heading-title elementor-size-default">We write blogs that <b><u>intrigue & motivate</u></b></h2>
                                                 </div>
                                             </div>
                                         </div>
@@ -258,7 +258,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-7e7fe62 elementor-widget elementor-widget-heading" data-id="7e7fe62" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">Help us raise money for lorem ipsum dolor</a></h5>
+                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">Dive into topics that will interest you.</a></h5>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-bd5c327 elementor-align-center elementor-widget elementor-widget-button" data-id="bd5c327" data-element_type="widget" data-widget_type="button.default">
@@ -266,7 +266,7 @@
                                                     <div class="elementor-button-wrapper">
                                                         <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Donate</span>
+                                                                <span class="elementor-button-text">Read blogs</span>
                                                             </span>
                                                         </a>
                                                     </div>
