@@ -36,12 +36,12 @@
 																<div class="elementor-widget-wrap">
 																	<div class="elementor-element elementor-element-7f8ade2 elementor-widget elementor-widget-heading" data-id="7f8ade2" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h6 class="elementor-heading-title elementor-size-default">History</h6>
+																			<h6 class="elementor-heading-title elementor-size-default">Vision</h6>
 																		</div>
 																	</div>
 																	<div class="elementor-element elementor-element-fc89d7c elementor-widget elementor-widget-heading" data-id="fc89d7c" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h2 class="elementor-heading-title elementor-size-default">Our story starts way back, when velit esse cillum dolore eu fugiat nulla.</h2>
+																			<h4 class="elementor-heading-title elementor-size-default">We see a global community of well-informed, principled and equipped young leaders with knowledge for personal and societal development to drive Nigeria to it’s peak potential.</h4>
 																		</div>
 																	</div>
 																	<div class="elementor-element elementor-element-9410008 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9410008" data-element_type="widget" data-widget_type="divider.default">
