@@ -34,7 +34,8 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-8085c36 elementor-widget elementor-widget-heading" data-id="8085c36" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">We organize events all around the globe talking about lorem ipsum</h2> </div>
+                                                    <h5 class="elementor-heading-title elementor-size-default">The Life Pith Blog is an informative hub of Life Pith Nigeria to provide publications and articles on leadership development, faith, lifestyle and sustainable development goals.
+                                                        All articles are properly researched and promise to aid personal and societal development. To publish with us,  contact us.</h5> </div>
                                             </div>
                                             <section class="elementor-section elementor-inner-section elementor-element elementor-element-74d1231 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74d1231" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-no">
