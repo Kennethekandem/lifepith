@@ -49,33 +49,18 @@
                 </div>
             </div>
         </div>
-        <div class="site-primary-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-primary-footer-builder">
-            <div class="ast-builder-grid-row-container-inner">
-                <div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
-                    <div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
-                        <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-4">
-                            <div class="footer-widget-area-inner site-info-inner">
-                                <section id="text-7" class="widget widget_text"> <div class="textwidget"><p>We are a voluntary organisation registered in 1985 under the Lorem Ipsum Act 15824 dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                    </div>
-                                </section><section id="text-8" class="widget widget_text"> <div class="textwidget"><p>All donations given to ut enim ad minim veniam, quis nostrud exercitation quia non numquam eius modi tempora incidunt ut labore et dolore.</p>
-                                    </div>
-                                </section> </div>
-                        </aside>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-2-equal ast-builder-grid-row-tablet-2-equal ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
             <div class="ast-builder-grid-row-container-inner">
                 <div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
                     <div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
                         <div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
-                            <div class="ast-footer-copyright"><div class="ast-footer-html-inner"><p>Copyright © 2021 Women Empowerment NGO</p>
+                            <div class="ast-footer-copyright"><div class="ast-footer-html-inner"><p>Copyright © <?= date("Y") ?> <?= config::name() ?></p>
                                 </div></div> </div>
                     </div>
                     <div class="site-footer-below-section-2 site-footer-section site-footer-section-2">
                         <div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-2" data-section="section-fb-html-2">
-                            <div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p>Powered by Women Empowerment NGO</p>
+                            <div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p>Developed by
+                                        <a href="" style="color: #fff;">Kenneth Ekandem</a></p>
                                 </div></div> </div>
                     </div>
                 </div>

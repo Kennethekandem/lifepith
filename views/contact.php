@@ -73,7 +73,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-c736162 elementor-widget elementor-widget-text-editor" data-id="c736162" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p></div>
+                                                    <div class="elementor-text-editor elementor-clearfix"><p>We would love to hear from you and all the amazing things you have to say.</p></div>
                                                 </div>
                                             </div>
                                         </div>
