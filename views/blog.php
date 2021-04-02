@@ -38,6 +38,24 @@
                                                         All articles are properly researched and promise to aid personal and societal development. To publish with us,  contact us.</h5> </div>
                                             </div>
                                             <section class="elementor-section elementor-inner-section elementor-element elementor-element-74d1231 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74d1231" data-element_type="section">
+                                                <div class="elementor-element elementor-element-f47f12b elementor-widget mb--bottom elementor-widget-heading" data-id="f47f12b" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist">
+                                                            <li class="nav-item" role="presentation">
+                                                                <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Leadership</button>
+                                                            </li>
+                                                            <li class="nav-item" role="presentation">
+                                                                <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Faith</button>
+                                                            </li>
+                                                            <li class="nav-item" role="presentation">
+                                                                <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Lifestyle</button>
+                                                            </li>
+                                                            <li class="nav-item" role="presentation">
+                                                                <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contac" type="button" role="tab" aria-controls="pills-development" aria-selected="false">Development</button>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
                                                 <div class="elementor-container elementor-column-gap-no">
                                                     <div class="elementor-row">
                                                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6f8dbf1" data-id="6f8dbf1" data-element_type="column">

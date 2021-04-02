@@ -12,6 +12,10 @@
     margin-bottom: 40px !important;
 }
 
+.nav-pills .nav-link {
+    color: #0d66c2;
+}
+
 @media screen and (min-width: 790px) {
 
 
