@@ -55,71 +55,15 @@
 																	<section class="elementor-section elementor-inner-section elementor-element elementor-element-22aafbd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22aafbd" data-element_type="section">
 																		<div class="elementor-container elementor-column-gap-no">
 																			<div class="elementor-row">
-																				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cf50e0e" data-id="cf50e0e" data-element_type="column">
-																					<div class="elementor-column-wrap elementor-element-populated">
-																						<div class="elementor-widget-wrap">
-																							<div class="elementor-element elementor-element-758de4a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="758de4a" data-element_type="widget" data-widget_type="icon-list.default">
-																								<div class="elementor-widget-container">
-																									<ul class="elementor-icon-list-items">
-																										<li class="elementor-icon-list-item">
-																											<a href="index.html#"> <span class="elementor-icon-list-icon">
-																													<i aria-hidden="true" class="fas fa-minus"></i> </span>
-																												<span class="elementor-icon-list-text">1982 - We first started our work</span>
-																											</a>
-																										</li>
-																										<li class="elementor-icon-list-item">
-																											<a href="index.html#"> <span class="elementor-icon-list-icon">
-																													<i aria-hidden="true" class="fas fa-minus"></i> </span>
-																												<span class="elementor-icon-list-text">1985 - Recognized by the AGDA</span>
-																											</a>
-																										</li>
-																										<li class="elementor-icon-list-item">
-																											<a href="index.html#"> <span class="elementor-icon-list-icon">
-																													<i aria-hidden="true" class="fas fa-minus"></i> </span>
-																												<span class="elementor-icon-list-text">1995 - Grow to over 100 volunteers</span>
-																											</a>
-																										</li>
-																										<li class="elementor-icon-list-item">
-																											<a href="index.html#"> <span class="elementor-icon-list-icon">
-																													<i aria-hidden="true" class="fas fa-minus"></i> </span>
-																												<span class="elementor-icon-list-text">2010 - Became part of Women's Rights</span>
-																											</a>
-																										</li>
-																										<li class="elementor-icon-list-item">
-																											<a href="index.html#"> <span class="elementor-icon-list-icon">
-																													<i aria-hidden="true" class="fas fa-minus"></i> </span>
-																												<span class="elementor-icon-list-text">2015 - Became a global volunteer</span>
-																											</a>
-																										</li>
-																									</ul>
-																								</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-																				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9ba22c9" data-id="9ba22c9" data-element_type="column">
+                                                                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9ba22c9" data-id="9ba22c9" data-element_type="column">
 																					<div class="elementor-column-wrap elementor-element-populated">
 																						<div class="elementor-widget-wrap">
 																							<div class="elementor-element elementor-element-550a74e elementor-widget elementor-widget-text-editor" data-id="550a74e" data-element_type="widget" data-widget_type="text-editor.default">
 																								<div class="elementor-widget-container">
-																									<div class="elementor-text-editor elementor-clearfix">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>
+																									<div class="elementor-text-editor elementor-clearfix">To educate, equip and foster the growth of young leaders particularly in marginalized communities by providing the knowledge, research materials and skills necessary for their development.</div>
 																								</div>
 																							</div>
-																							<div class="elementor-element elementor-element-775e03c elementor-widget elementor-widget-text-editor" data-id="775e03c" data-element_type="widget" data-widget_type="text-editor.default">
-																								<div class="elementor-widget-container">
-																									<div class="elementor-text-editor elementor-clearfix">
-																										<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-																									</div>
-																								</div>
-																							</div>
-																							<div class="elementor-element elementor-element-952602c elementor-widget elementor-widget-text-editor" data-id="952602c" data-element_type="widget" data-widget_type="text-editor.default">
-																								<div class="elementor-widget-container">
-																									<div class="elementor-text-editor elementor-clearfix">
-																										<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-																									</div>
-																								</div>
-																							</div>
-																						</div>
+                                                                                        </div>
 																					</div>
 																				</div>
 																			</div>
@@ -140,7 +84,7 @@
 																<div class="elementor-widget-wrap">
 																	<div class="elementor-element elementor-element-d84b450 elementor-widget elementor-widget-heading" data-id="d84b450" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h3 class="elementor-heading-title elementor-size-default">Achievements</h3>
+																			<h3 class="elementor-heading-title elementor-size-default">Services</h3>
 																		</div>
 																	</div>
 																	<div class="elementor-element elementor-element-ec2c859 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ec2c859" data-element_type="widget" data-widget_type="divider.default">
@@ -155,64 +99,16 @@
 																		<div class="elementor-widget-container">
 																			<ul class="elementor-icon-list-items">
 																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">A reduction of new cases of lorem</span>
-																					</a>
+                                                                                    &ndash; Provision of educative publications for young leaders
 																				</li>
 																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Putting an end to mauris</span>
-																					</a>
+                                                                                    &ndash; seminars and development trainings
 																				</li>
 																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Operating the #1-ranked litora</span>
-																					</a>
+                                                                                    &ndash; provision of educare materials
 																				</li>
 																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Helping other communities</span>
-																					</a>
-																				</li>
-																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Opening the first neque</span>
-																					</a>
-																				</li>
-																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Consulting on accumsan </span>
-																					</a>
-																				</li>
-																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">In 2019, we partnered with ACME</span>
-																					</a>
-																				</li>
-																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Launching the first sociosqu </span>
-																					</a>
-																				</li>
-																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Receiving the Presidential Award</span>
-																					</a>
-																				</li>
-																				<li class="elementor-icon-list-item">
-																					<a href="index.html#"> <span class="elementor-icon-list-icon">
-																							<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-																						<span class="elementor-icon-list-text">Inspiring and supporting vellit </span>
-																					</a>
+                                                                                    &ndash; mentorship
 																				</li>
 																			</ul>
 																		</div>
