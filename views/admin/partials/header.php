@@ -75,39 +75,9 @@
 
             <div class="dropdown-menu dropdown-menu-right border-0 py-0 mt-3" aria-labelledby="dropdownMenuLink" style="width: 260px;">
                 <div class="card">
-                    <div class="card-header py-3">
-                        <!-- Storage -->
-                        <div class="d-flex align-items-center mb-3">
-                            <span class="h6 text-muted text-uppercase mb-0">Storage</span>
-
-                            <div class="ml-auto text-muted">
-                                <strong class="text-dark">60gb</strong> / 100gb
-                            </div>
-                        </div>
-
-                        <div class="progress" style="height: 4px;">
-                            <div class="progress-bar bg-primary" role="progressbar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                        <!-- End Storage -->
-                    </div>
 
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li class="mb-4">
-                                <a class="d-flex align-items-center link-dark" href="index.html#!">
-                                    <span class="h3 mb-0"><i class="far fa-user-circle text-muted mr-3"></i></span> View Profile
-                                </a>
-                            </li>
-                            <li class="mb-4">
-                                <a class="d-flex align-items-center link-dark" href="index.html#!">
-                                    <span class="h3 mb-0"><i class="far fa-list-alt text-muted mr-3"></i></span> Settings
-                                </a>
-                            </li>
-                            <li class="mb-4">
-                                <a class="d-flex align-items-center link-dark" href="index.html#!">
-                                    <span class="h3 mb-0"><i class="far fa-laugh-wink text-muted mr-3"></i></span> Invite your friends
-                                </a>
-                            </li>
                             <li>
                                 <a class="d-flex align-items-center link-dark" href="index.html#!">
                                     <span class="h3 mb-0"><i class="far fa-share-square text-muted mr-3"></i></span> Sign Out
@@ -149,7 +119,7 @@
                         <a class="u-sidebar-nav-menu__link" href="index.html#!"
                            data-target="#baseUI">
                             <i class="far fa-gem u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">Base UI</span>
+                            <span class="u-sidebar-nav-menu__item-title">Categories</span>
                             <i class="fa fa-angle-right u-sidebar-nav-menu__item-arrow"></i>
                             <span class="u-sidebar-nav-menu__indicator"></span>
                         </a>
@@ -170,169 +140,6 @@
                         </ul>
                     </li>
                     <!-- End Base UI -->
-
-                    <!-- UI Components -->
-                    <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link" href="index.html#!"
-                           data-target="#subMenu1">
-                            <i class="far fa-paper-plane u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">UI Components</span>
-                            <i class="fa fa-angle-right u-sidebar-nav-menu__item-arrow"></i>
-                            <span class="u-sidebar-nav-menu__indicator"></span>
-                        </a>
-
-                        <ul id="subMenu1" class="u-sidebar-nav-menu u-sidebar-nav-menu--second-level" style="display: none;">
-                            <!-- Components -->
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-alerts.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">A</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Alerts</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-buttons.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">B</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Buttons</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-cards.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">C</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Cards</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-modals.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">M</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Modals</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-tooltips-and-popovers.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">T</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Tooltips & Popovers</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-others.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">O</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Other Components</span>
-                                </a>
-                            </li>
-                            <!-- End Components -->
-                        </ul>
-                    </li>
-                    <!-- End UI Components -->
-
-                    <!-- Forms -->
-                    <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link" href="forms.html">
-                            <i class="far fa-edit u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">Forms</span>
-                        </a>
-                    </li>
-                    <!-- End Forms -->
-
-                    <!-- Tables -->
-                    <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link" href="tables.html">
-                            <i class="far fa-list-alt u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">Tables</span>
-                        </a>
-                    </li>
-                    <!-- End Tables -->
-
-                    <!-- Account Pages -->
-                    <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link" href="index.html#!"
-                           data-target="#subMenu2">
-                            <i class="far fa-user-circle u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">Account Pages</span>
-                            <i class="fa fa-angle-right u-sidebar-nav-menu__item-arrow"></i>
-                            <span class="u-sidebar-nav-menu__indicator"></span>
-                        </a>
-
-                        <ul id="subMenu2" class="u-sidebar-nav-menu u-sidebar-nav-menu--second-level" style="display: none;">
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="account-profile.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">P</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Profile</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="account-sign-up.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">C</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Sign Up</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="account-sign-in.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">S</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Sign In</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="account-password-recover.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">R</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Recover Password</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <!-- End Account Pages -->
-
-                    <!-- Other Pages -->
-                    <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link" href="index.html#!"
-                           data-target="#subMenu3">
-                            <i class="far fa-folder-open u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">Other Pages</span>
-                            <i class="fa fa-angle-right u-sidebar-nav-menu__item-arrow"></i>
-                            <span class="u-sidebar-nav-menu__indicator"></span>
-                        </a>
-
-                        <ul id="subMenu3" class="u-sidebar-nav-menu u-sidebar-nav-menu--second-level" style="display: none;">
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="blank.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">B</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Blank Page</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="404.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">E</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Error 404</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="500.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">E</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Error 500</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <!-- End Other Pages -->
-
-                    <hr>
-
-                    <!-- Documentation -->
-                    <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link" href="docs.html">
-                            <i class="far fa-newspaper u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">Documentation</span>
-                        </a>
-                    </li>
-                    <!-- End Documentation -->
-
-                    <!-- Free Download -->
-                    <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link" href="../../templates/stream-dashboard-ui-kit.html">
-                            <i class="fab fa-html5 u-sidebar-nav-menu__item-icon"></i>
-                            <span class="u-sidebar-nav-menu__item-title">Free Download</span>
-                        </a>
-                    </li>
-                    <!-- End Free Download -->
                 </ul>
             </nav>
         </div>
