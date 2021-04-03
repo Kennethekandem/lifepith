@@ -75,6 +75,10 @@ class config {
         return 'assets/images/logowhite.png';
     }
 
+    public static function logo_admin() {
+        return 'assets/images/logo_admin.png';
+    }
+
     public static function logo_mail() {
       return 'assets/images/logo_main.png';
     }

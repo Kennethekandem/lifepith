@@ -10,4 +10,6 @@ if($routes[2] != '') {
     }
 }
 
+require("admin/partials/header.php");
 require("admin/" . $page . '.php');
+require("admin/partials/footer.php");
