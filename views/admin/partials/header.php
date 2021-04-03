@@ -125,18 +125,22 @@
                         </a>
 
                         <ul id="baseUI" class="u-sidebar-nav-menu u-sidebar-nav-menu--second-level" style="display: none;">
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-typography.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">T</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Typography</span>
-                                </a>
-                            </li>
-                            <li class="u-sidebar-nav-menu__item">
-                                <a class="u-sidebar-nav-menu__link" href="ui-colors.html">
-                                    <span class="u-sidebar-nav-menu__item-icon">C</span>
-                                    <span class="u-sidebar-nav-menu__item-title">Colors</span>
-                                </a>
-                            </li>
+
+                            <?php
+                            $categories = categories::all();
+                            foreach($categories as $category) {
+                                $category_name = $category['category'];
+
+                                ?>
+                                <li class="u-sidebar-nav-menu__item">
+                                    <a class="u-sidebar-nav-menu__link" href="">
+                                        <span class="u-sidebar-nav-menu__item-icon"><?= $category_name[0]; ?></span>
+                                        <span class="u-sidebar-nav-menu__item-title"><?= $category_name; ?></span>
+                                    </a>
+                                </li>
+                            <?php
+                            }
+                            ?>
                         </ul>
                     </li>
                     <!-- End Base UI -->
