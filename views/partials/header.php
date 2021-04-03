@@ -97,13 +97,13 @@
                                                 <nav class="ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
                                                     <div class="main-navigation ast-inline-flex">
                                                         <ul id="ast-hf-menu-1" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile">
-                                                            <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-26">
+                                                            <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home <?= $page == 'home' ? 'current-menu-item' : ''; ?> page_item page-item-6 current_page_item menu-item-26">
                                                                 <a href="<?= config::base(); ?>" aria-current="page" class="menu-link">Home</a>
                                                             </li>
-                                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="about" class="menu-link">Who we are</a></li>
-                                                            <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="theory" class="menu-link">Our theory of change</a></li>
-                                                           <li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="blog" class="menu-link">Blog</a></li>
-                                                            <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact" class="menu-link">Contact Us</a></li>
+                                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type <?= $page == 'about' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-23"><a href="about" class="menu-link">Who we are</a></li>
+                                                            <li id="menu-item-22" class="menu-item menu-item-type-post_type <?= $page == 'theory' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-22"><a href="theory" class="menu-link">Our theory of change</a></li>
+                                                           <li id="menu-item-21" class="menu-item menu-item-type-post_type <?= $page == 'blog' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-21"><a href="blog" class="menu-link">Blog</a></li>
+                                                            <li id="menu-item-24" class="menu-item menu-item-type-post_type <?= $page == 'contact' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-24"><a href="contact" class="menu-link">Contact Us</a></li>
                                                         </ul>
                                                     </div>
                                                 </nav>

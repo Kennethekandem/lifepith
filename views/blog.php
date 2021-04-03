@@ -51,7 +51,7 @@
                                                                 <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Lifestyle</button>
                                                             </li>
                                                             <li class="nav-item" role="presentation">
-                                                                <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contac" type="button" role="tab" aria-controls="pills-development" aria-selected="false">Development</button>
+                                                                <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contac" type="button" role="tab" aria-controls="pills-development" aria-selected="false">Health</button>
                                                             </li>
                                                         </ul>
                                                     </div>
