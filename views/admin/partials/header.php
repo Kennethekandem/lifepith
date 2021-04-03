@@ -79,7 +79,7 @@
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
                             <li>
-                                <a class="d-flex align-items-center link-dark" href="index.html#!">
+                                <a class="d-flex align-items-center link-dark" href="admin/logout">
                                     <span class="h3 mb-0"><i class="far fa-share-square text-muted mr-3"></i></span> Sign Out
                                 </a>
                             </li>

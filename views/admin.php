@@ -1,6 +1,6 @@
 <?php
 
-$pages = array("blogs", "login");
+$pages = array("blogs", "login", "logout");
 
 if($routes[2] != '') {
     if(in_array($routes[2], $pages)) {
@@ -35,7 +35,7 @@ if($page == 'login') {
     }
 }
 
-if($page == 'login') {
+if($page == 'login' || $page == 'logout') {
     require("views/admin/auth/" . $page . ".php");
 }else {
     require("views/admin/partials/header.php");
