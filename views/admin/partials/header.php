@@ -11,7 +11,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="<?= config::favicon(); ?>>" type="image/x-icon">
 
     <!-- Schema.org -->
     <meta itemprop="name" content="Stream Dashboard UI Kit">
@@ -79,7 +79,7 @@
     <div class="u-header-right">
         <!-- Activities -->
         <div class="dropdown mr-4">
-            <a class="link-muted" href="index.html#!" role="button" id="dropdownMenuLink" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">
+            <a class="link-muted" href="#" role="button" id="dropdownMenuLink" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">
 				    <span class="h3">
 			    		<i class="far fa-envelope"></i>
 				    </span>
@@ -96,7 +96,7 @@
                     <div class="card-body p-0">
                         <div class="list-group list-group-flush">
                             <!-- Activity -->
-                            <a class="list-group-item list-group-item-action" href="index.html#">
+                            <a class="list-group-item list-group-item-action" href="#">
                                 <div class="media align-items-center">
                                     <img class="u-avatar--sm rounded-circle mr-3" src="assets/admin/img/avatars/img1.jpg" alt="Image description">
 

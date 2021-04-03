@@ -88,7 +88,7 @@ class config {
     }
 
     public static function favicon() {
-        return 'assets/img/custom/favicon.png';
+        return 'assets/images/favicon.png';
     }
 
     public static function baseUploadUrl() {
