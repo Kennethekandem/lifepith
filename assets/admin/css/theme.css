@@ -31,7 +31,7 @@
   --danger: #fb4143;
   --light: #f6f9fc;
   --dark: #1b1e24;
-  --soft-primary: rgba(107, 21, 182, 0.1);
+  --soft-primary: rgba(25, 82, 154, 0.1);
   --soft-secondary: rgba(0, 201, 167, 0.1);
   --soft-info: rgba(41, 114, 250, 0.1);
   --soft-success: rgba(13, 209, 87, 0.1);
@@ -2707,8 +2707,8 @@ fieldset:disabled a.btn {
 
 .btn-soft-primary {
   color: #fff;
-  background-color: rgba(107, 21, 182, 0.1);
-  border-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
+  border-color: rgba(25, 82, 154, 0.1);
 }
 
 .btn-soft-primary:hover {
@@ -2723,8 +2723,8 @@ fieldset:disabled a.btn {
 
 .btn-soft-primary.disabled, .btn-soft-primary:disabled {
   color: #fff;
-  background-color: rgba(107, 21, 182, 0.1);
-  border-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
+  border-color: rgba(25, 82, 154, 0.1);
 }
 
 .btn-soft-primary:not(:disabled):not(.disabled):active, .btn-soft-primary:not(:disabled):not(.disabled).active,
@@ -3182,16 +3182,16 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-soft-primary {
-  color: rgba(107, 21, 182, 0.1);
+  color: rgba(25, 82, 154, 0.1);
   background-color: transparent;
   background-image: none;
-  border-color: rgba(107, 21, 182, 0.1);
+  border-color: rgba(25, 82, 154, 0.1);
 }
 
 .btn-outline-soft-primary:hover {
   color: #fff;
-  background-color: rgba(107, 21, 182, 0.1);
-  border-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
+  border-color: rgba(25, 82, 154, 0.1);
 }
 
 .btn-outline-soft-primary:focus, .btn-outline-soft-primary.focus {
@@ -3199,15 +3199,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-soft-primary.disabled, .btn-outline-soft-primary:disabled {
-  color: rgba(107, 21, 182, 0.1);
+  color: rgba(25, 82, 154, 0.1);
   background-color: transparent;
 }
 
 .btn-outline-soft-primary:not(:disabled):not(.disabled):active, .btn-outline-soft-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-soft-primary.dropdown-toggle {
   color: #fff;
-  background-color: rgba(107, 21, 182, 0.1);
-  border-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
+  border-color: rgba(25, 82, 154, 0.1);
 }
 
 .btn-outline-soft-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-soft-primary:not(:disabled):not(.disabled).active:focus,
@@ -5388,7 +5388,7 @@ input[type="button"].btn-block {
 
 .badge-soft-primary {
   color: #fff;
-  background-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
 }
 
 .badge-soft-primary[href]:hover, .badge-soft-primary[href]:focus {
@@ -5613,8 +5613,8 @@ input[type="button"].btn-block {
 
 .alert-soft-primary {
   color: rgba(255, 254, 255, 0.964);
-  background-color: rgba(107, 21, 182, 0.1);
-  border-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
+  border-color: rgba(25, 82, 154, 0.1);
 }
 
 .alert-soft-primary hr {
@@ -6908,7 +6908,7 @@ button.bg-dark:focus {
 }
 
 .bg-soft-primary {
-  background-color: rgba(107, 21, 182, 0.1) !important;
+  background-color: rgba(25, 82, 154, 0.1) !important;
 }
 
 a.bg-soft-primary:hover, a.bg-soft-primary:focus,
@@ -7048,7 +7048,7 @@ button.bg-soft-warning:focus {
 }
 
 .border-soft-primary {
-  border-color: rgba(107, 21, 182, 0.1) !important;
+  border-color: rgba(25, 82, 154, 0.1) !important;
 }
 
 .border-soft-secondary {
@@ -9761,7 +9761,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-soft-primary {
-  color: rgba(107, 21, 182, 0.1) !important;
+  color: rgba(25, 82, 154, 0.1) !important;
 }
 
 a.text-soft-primary:hover, a.text-soft-primary:focus {
@@ -10865,7 +10865,7 @@ body.side-nav-on-action .u-content {
 }
 
 .u-indicator--primary-lightest {
-  background-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
   color: #1873e2;
 }
 
@@ -11290,7 +11290,7 @@ body.mobile-mode .u-sidebar-nav-menu--second-level {
 
 .u-sidebar-nav-menu__link:hover {
   color: #1b1e24;
-  background-color: rgba(107, 21, 182, 0.1);
+  background-color: rgba(25, 82, 154, 0.1);
 }
 
 .u-sidebar-nav-menu__link.active,
