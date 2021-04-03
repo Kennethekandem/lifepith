@@ -67,9 +67,9 @@
 
 
     <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="assets/images/favicon.png" sizes="64x64" />
-    <link rel="icon" href="assets/images/favicon.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="assets/images/favicon.png" />
-    <meta name="msapplication-TileImage" content="assets/images/favicon.png" />
+    <link rel="icon" href="<?= config::favicon(); ?>" sizes="192x192" />
+    <link rel="apple-touch-icon" href="<?= config::favicon(); ?>" />
+    <meta name="msapplication-TileImage" content="<?= config::favicon(); ?>" />
 </head>
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-6 wp-custom-logo ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header astra-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.0.3 elementor-default elementor-kit-20 elementor-page elementor-page-6">
 
