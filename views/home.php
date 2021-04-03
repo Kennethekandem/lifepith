@@ -335,7 +335,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-44acbff elementor-widget elementor-widget-heading" data-id="44acbff" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Emmanuel Burma</a></h4>
+                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="https://www.linkedin.com/in/emmanuel-burma-usoro/">Emmanuel Burma</a></h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-e0f6252 elementor-widget elementor-widget-text-editor" data-id="e0f6252" data-element_type="widget" data-widget_type="text-editor.default">
@@ -366,7 +366,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-0d2921e elementor-widget elementor-widget-heading" data-id="0d2921e" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Mary Asanga</a></h4>
+                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="https://www.linkedin.com/in/mary-asanga-01161414b">Mary Asanga</a></h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-2bfa446 elementor-widget elementor-widget-text-editor" data-id="2bfa446" data-element_type="widget" data-widget_type="text-editor.default">
