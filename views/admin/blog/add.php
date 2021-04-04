@@ -61,38 +61,62 @@
                 </header>
 
                 <div class="card-body">
-                    <div class="form-group mb-4">
-                        <label for="defaultInput">Title</label>
-                        <input id="defaultInput" class="form-control" type="email" placeholder="Blog Title" aria-describedby="emailHelp">
-                    </div>
+                    <form action="" method="post">
 
-                    <div class="form-group mb-4">
-                        <label for="defaultInput">Thumbnail</label>
-                        <input class="form-control" type="file">
-                    </div>
+                        <?php
 
-                    <div class="form-group mb-4">
-                        <label for="defaultInput">Category</label>
-                        <select name="" id="" class="form-control">
-                            <?php
-                            $categories = categories::all();
-
-                            foreach($categories as $category) {
-                                $category_name = $category['category'];
-                                $category_id = $category['id'];
-                                ?>
-                                <option value="<?= $category_id ?>"><?= $category_name ?></option>
-                            <?php
+                            if(isset($_POST['add'])) {
+                                blog::add($_POST['title'], $_POST['category_id'], $_POST['content'], $_POST['status'], $_FILES['thumbnail']);
                             }
-                            ?>
-                        </select>
-                    </div>
 
-                    <div class="form-group mb-4">
-                        <label for="defaultInput">Content</label>
-                        <textarea name="" id="summernote" class="form-control"></textarea>
-                    </div>
+                        ?>
+                        <div class="form-group mb-4">
+                            <label for="defaultInput">Title</label>
+                            <input id="defaultInput" class="form-control" type="text" placeholder="Blog Title" name="title">
+                        </div>
 
+                        <div class="form-group mb-4">
+                            <label for="defaultInput">Thumbnail</label>
+                            <input class="form-control" type="file" name="thumbnail">
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label for="defaultInput">Category</label>
+                            <select name="category_id" id="" class="form-control">
+                                <?php
+                                $categories = categories::all();
+
+                                foreach($categories as $category) {
+                                    $category_name = $category['category'];
+                                    $category_id = $category['id'];
+                                    ?>
+                                    <option value="<?= $category_id ?>"><?= $category_name ?></option>
+                                    <?php
+                                }
+                                ?>
+                            </select>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label for="defaultInput">Content</label>
+                            <textarea name="content" id="summernote" class="form-control"></textarea>
+                        </div>
+
+                        <div class="form-group col-2" style="padding:0">
+                            <label class="d-flex align-items-center justify-content-between">
+                                <div class="form-toggle">
+                                    <input name="status" type="checkbox">
+
+                                    <div class="form-toggle__item">
+                                        <i class="d-inline-block"></i>
+                                    </div>
+                                </div>
+                                <span class="form-label-text">Publish</span>
+                            </label>
+                        </div>
+
+                        <button class="btn btn-primary btn-block">Add Blog</button>
+                    </form>
                 </div>
             </div>
 

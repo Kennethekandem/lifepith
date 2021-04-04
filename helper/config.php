@@ -92,15 +92,7 @@ class config {
     }
 
     public static function baseUploadUrl() {
-        return 'assets/images/account/';
-    }
-
-    public static function baseAdminUploadUrl() {
-        return 'assets/images/admin/';
-    }
-
-    public static function baseSliderUploadUrl() {
-        return 'assets/images/sliders/';
+        return 'assets/images/uploads/';
     }
 
     public static function basePDFUploadUrl() {
