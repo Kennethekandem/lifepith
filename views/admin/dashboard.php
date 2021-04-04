@@ -25,13 +25,13 @@
                     $title = $blog['title'];
                     $category = $blog['category'];
                     $writer = $blog['writer'];
-                    $date = date("Y-m-d H:i:s", strtotime($blog['timestamp']));
+                    $date = $blog['timestamp'];
                     ?>
                     <tr>
                         <td><a href=""><?= $title; ?></a></td>
                         <td><?= $category; ?></td>
                         <td><?= $writer; ?></td>
-                        <td><?= $date; ?></td>
+                        <td><?= request::timeago($date); ?></td>
                         <td class="text-center">
                             <a id="actions1Invoker" class="link-muted" href="tables.html#!" aria-haspopup="true" aria-expanded="false"
                                data-toggle="dropdown">

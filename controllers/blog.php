@@ -21,13 +21,16 @@ class blog
                 $publish =  1;
         }
 
-        $add = $db->query("INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now)", array(
+        $add = $db->query("INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp, day, month, year) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now, :day, :month, :year)", array(
             'title' => $title,
             'category_id' => $category_id,
             'writer' => $writer,
             'thumbnail' => $thumbnail,
             'publish' => $publish,
-            'now' => time()
+            'now' => time(),
+            'day' => date("D"),
+            'month' => date("M"),
+            'year' => date("Y")
         ));
 
         if($add) {
