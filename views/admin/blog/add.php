@@ -101,10 +101,10 @@
 
         <!-- Footer -->
         <footer class="u-footer d-md-flex align-items-md-center text-center text-md-left text-muted text-muted">
-            <p class="h5 mb-2 mb-md-0">More freebies on <a class="link-muted" href="../../index.html" target="_blank">Htmlstream</a></p>
+            <p class="h5 mb-2 mb-md-0">developed by <a class="link-muted" href="../../index.html" target="_blank">Kenneth Ekandem</a></p>
 
             <p class="h5 mb-0 ml-auto">
-                &copy; 2018 <a class="link-muted" href="../../index.html" target="_blank">Htmlstream</a>. All Rights Reserved.
+                &copy; <?= date("Y"); ?> <a class="link-muted" href="<?= config::base(); ?>" target="_blank"><?= config::name(); ?></a>. All Rights Reserved.
             </p>
         </footer>
         <!-- End Footer -->
