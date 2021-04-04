@@ -89,7 +89,7 @@
                     </div>
 
                     <div class="form-group mb-4">
-                        <label for="defaultInput">Description</label>
+                        <label for="defaultInput">Content</label>
                         <textarea name="" id="summernote" class="form-control"></textarea>
                     </div>
 
