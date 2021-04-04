@@ -20,6 +20,10 @@
 <script src="assets/admin/vendor/popper.js/dist/umd/popper.min.js"></script>
 <script src="assets/admin/vendor/bootstrap/bootstrap.min.js"></script>
 
+<!--Bootstrap-->
+<script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script>
+
 <!-- Plugins -->
 <script src="assets/admin/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="assets/admin/vendor/chart.js/dist/Chart.min.js"></script>
@@ -28,5 +32,11 @@
 <script src="assets/admin/js/sidebar-nav.js"></script>
 <script src="assets/admin/js/main.js"></script>
 <script src="assets/admin/js/dashboard-page-scripts.js"></script>
+
+<script>
+    $(document).ready(function() {
+        $('#datatable').DataTable();
+    } );
+</script>
 </body>
 </html>

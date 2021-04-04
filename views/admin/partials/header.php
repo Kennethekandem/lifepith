@@ -25,6 +25,10 @@
     <link rel="stylesheet" href="assets/admin/vendor/font-awesome/css/all.min.css">
     <link rel="stylesheet" href="assets/admin/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
 
+    <!--    Datatable-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
+
     <!-- Theme Styles -->
     <link rel="stylesheet" href="assets/admin/css/theme.css">
 
@@ -107,7 +111,7 @@
                 <ul class="u-sidebar-nav-menu u-sidebar-nav-menu--top-level">
                     <!-- Dashboard -->
                     <li class="u-sidebar-nav-menu__item">
-                        <a class="u-sidebar-nav-menu__link active" href="index.html">
+                        <a class="u-sidebar-nav-menu__link active" href="admin">
                             <i class="fa fa-cubes u-sidebar-nav-menu__item-icon"></i>
                             <span class="u-sidebar-nav-menu__item-title">Dashboard</span>
                         </a>
@@ -125,7 +129,6 @@
                         </a>
 
                         <ul id="baseUI" class="u-sidebar-nav-menu u-sidebar-nav-menu--second-level" style="display: none;">
-
                             <?php
                             $categories = categories::all();
                             foreach($categories as $category) {
