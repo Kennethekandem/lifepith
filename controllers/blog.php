@@ -45,6 +45,6 @@ class blog
     public static function all() {
         global $db;
 
-//        $blogs = $db->query("SELECT * FROM blogs LEFT JOIN blog_contents ON blog_contents.blog_id = blogs.id ")
+        return $blogs = $db->query("SELECT * FROM blogs LEFT JOIN categories c on blogs.category_id = c.id");
     }
 }
