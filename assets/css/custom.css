@@ -16,6 +16,10 @@
     color: #0d66c2;
 }
 
+.note-editable {
+    height: 250px;
+}
+
 @media screen and (min-width: 790px) {
 
 

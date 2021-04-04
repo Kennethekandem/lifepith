@@ -10,4 +10,10 @@ if($routes[3] != '') {
     }
 }
 
-require("views/admin/blog/" . $page . ".php");
+if($page != 'add') {
+    require("views/admin/partials/header.php");
+    require("views/admin/blog/" . $page . ".php");
+    require("views/admin/partials/footer.php");
+}else {
+    require("views/admin/blog/" . $page . ".php");
+}

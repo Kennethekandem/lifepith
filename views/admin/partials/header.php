@@ -29,8 +29,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
 
+    <!-- include summernote css/js -->
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
+
     <!-- Theme Styles -->
     <link rel="stylesheet" href="assets/admin/css/theme.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
 
     <!-- Custom Charts -->
     <style>

@@ -37,7 +37,9 @@ if($page == 'login') {
 
 if($page == 'login' || $page == 'logout') {
     require("views/admin/auth/" . $page . ".php");
-}else {
+} elseif ($page == 'blog') {
+    require("views/admin/" . $page . '.php');
+} else {
     require("views/admin/partials/header.php");
     require("views/admin/" . $page . '.php');
     require("views/admin/partials/footer.php");
