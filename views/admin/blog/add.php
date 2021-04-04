@@ -61,12 +61,12 @@
                 </header>
 
                 <div class="card-body">
-                    <form action="" method="post">
+                    <form action="" method="post" enctype="multipart/form-data">
 
                         <?php
 
                             if(isset($_POST['add'])) {
-                                blog::add($_POST['title'], $_POST['category_id'], $_POST['content'], $_POST['status'], $_FILES['thumbnail']);
+                                blog::add($_POST['title'], $_POST['writer'], $_POST['category_id'], $_POST['content'], $_POST['publish'], $_FILES['thumbnail']);
                             }
 
                         ?>
@@ -98,6 +98,11 @@
                         </div>
 
                         <div class="form-group mb-4">
+                            <label for="defaultInput">Writer</label>
+                            <input id="defaultInput" class="form-control" type="text" placeholder="Blog Title" name="writer">
+                        </div>
+
+                        <div class="form-group mb-4">
                             <label for="defaultInput">Content</label>
                             <textarea name="content" id="summernote" class="form-control"></textarea>
                         </div>
@@ -105,7 +110,7 @@
                         <div class="form-group col-2" style="padding:0">
                             <label class="d-flex align-items-center justify-content-between">
                                 <div class="form-toggle">
-                                    <input name="status" type="checkbox">
+                                    <input name="publish" type="checkbox">
 
                                     <div class="form-toggle__item">
                                         <i class="d-inline-block"></i>
@@ -115,7 +120,7 @@
                             </label>
                         </div>
 
-                        <button class="btn btn-primary btn-block">Add Blog</button>
+                        <button class="btn btn-primary btn-block" type="submit" name="add">Add Blog</button>
                     </form>
                 </div>
             </div>
