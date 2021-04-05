@@ -54,6 +54,6 @@ class blog
     public static function single($blog_id) {
         global $db;
 
-        return $blog = $db->query("SELECT blogs.*, bc.content, c.category FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE blogs.id = :blog_id", array('blog_id' => $blog_id), false);
+        return $blog = $db->query("SELECT blogs.*, bc.content, c.category, c.id as category_id FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE blogs.id = :blog_id", array('blog_id' => $blog_id), false);
     }
 }
