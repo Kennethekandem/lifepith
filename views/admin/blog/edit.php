@@ -8,8 +8,8 @@
 
             <?php
 
-            if(isset($_POST['add'])) {
-                blog::add($_POST['title'], $_POST['writer'], $_POST['category_id'], $_POST['content'], $_POST['publish'], $_FILES['thumbnail']);
+            if(isset($_POST['edit'])) {
+                blog::edit($blog['id'], $_POST['title'], $_POST['writer'], $_POST['category_id'], $_POST['content']);
             }
 
             ?>
@@ -50,7 +50,7 @@
 
             <input type="hidden" name="blog_id" value="<?= $blog['id']; ?>">
 
-            <button class="btn btn-primary btn-block" type="submit" name="add">Edit Blog</button>
+            <button class="btn btn-primary btn-block" type="submit" name="edit">Edit Blog</button>
         </form>
     </div>
 </div>

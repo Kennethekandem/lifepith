@@ -12,6 +12,11 @@ if($routes[3] != '') {
 
             $blog = blog::single($blog_id);
         }
+
+        if($page == 'category') {
+            $category_id = $routes[4];
+            $blogs = blog::category($category_id);
+        }
     }else {
         header("location:admin");
     }

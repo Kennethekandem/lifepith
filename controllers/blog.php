@@ -57,9 +57,37 @@ class blog
         return $blog = $db->query("SELECT blogs.*, bc.content, c.category, c.id as category_id FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE blogs.id = :blog_id", array('blog_id' => $blog_id), false);
     }
 
-    public static function edit($title, $writer, $category_id, $content) {
+    public static function edit($blog_id, $title, $writer, $category_id, $content) {
         global $db;
 
+        $edit = $db->query("UPDATE blogs SET title = :title, writer = :writer, category_id = :category_id WHERE id = :blog_id", array(
+            'title' => $title,
+            'writer' => $writer,
+            'category_id' => $category_id,
+            'blog_id' => $blog_id
+        ));
+
+        if($edit) {
+            $db->query("UPDATE blog_contents SET content = :content WHERE blog_id = :blog_id", array(
+                'content' => $content,
+                'blog_id' => $blog_id
+            ));
+
+            respond::alert('success', '', 'Blog updated successfully');
+        }
+
+    }
+
+    public static function category($category_id) {
+        global $db;
+
+        return $category_blogs = $db->query("SELECT blogs.*, c.category FROM blogs LEFT JOIN categories c on blogs.category_id = c.id WHERE blogs.category_id = :category_id", array("category_id" => $category_id));
+    }
+
+    public static function category_name($category_id) {
+        global $db;
+
+        return $db->single("SELECT category FROM categories WHERE id = :id", array('id' => $category_id));
 
     }
 }

@@ -136,11 +136,12 @@
                             <?php
                             $categories = categories::all();
                             foreach($categories as $category) {
+                                $category_id = $category['id'];
                                 $category_name = $category['category'];
 
                                 ?>
                                 <li class="u-sidebar-nav-menu__item">
-                                    <a class="u-sidebar-nav-menu__link" href="">
+                                    <a class="u-sidebar-nav-menu__link" href="admin/blog/category/<?= $category_id; ?>">
                                         <span class="u-sidebar-nav-menu__item-icon"><?= $category_name[0]; ?></span>
                                         <span class="u-sidebar-nav-menu__item-title"><?= $category_name; ?></span>
                                     </a>
