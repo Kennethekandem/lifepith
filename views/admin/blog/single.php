@@ -1,4 +1,7 @@
 <div class="col-md-12 col-xl-12 mb-4">
+    <div class="mb-3">
+        <a href="admin" class="btn btn-primary"><i class="fa fa-arrow-left"></i> Go Back</a>
+    </div>
     <!-- Card Image -->
     <div class="card">
         <img class="card-img-top" src="<?= config::baseUploadUrl().$blog['thumbnail']; ?>" alt="Card image cap">
