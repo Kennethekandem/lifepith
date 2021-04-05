@@ -14,11 +14,11 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-d1cb7b6 elementor-widget elementor-widget-heading" data-id="d1cb7b6" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Dive into our</h6> </div>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Dive into</h6> </div>
                                             </div>
                                             <div class="elementor-element elementor-element-78206bf elementor-widget elementor-widget-heading" data-id="78206bf" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h1 class="elementor-heading-title elementor-size-default">Blogs</h1> </div>
+                                                    <h1 class="elementor-heading-title elementor-size-default"><?= $blog['title']; ?></h1> </div>
                                             </div>
                                         </div>
                                     </div>
@@ -26,54 +26,15 @@
                             </div>
                         </div>
                     </section>
-                    <section class="elementor-section elementor-top-section elementor-element elementor-element-d9ff5bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d9ff5bd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <section class="elementor-section elementor-top-section elementor-element elementor-element-a14396e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a14396e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                         <div class="elementor-container elementor-column-gap-no">
                             <div class="elementor-row">
-                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c27aed2" data-id="c27aed2" data-element_type="column">
+                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f203a60" data-id="f203a60" data-element_type="column">
                                     <div class="elementor-column-wrap elementor-element-populated">
                                         <div class="elementor-widget-wrap">
-                                            <!--<div class="elementor-element elementor-element-8207506 elementor-widget elementor-widget-heading" data-id="8207506" data-element_type="widget" data-widget_type="heading.default">
+                                            <div class="elementor-element elementor-element-8085c36 elementor-widget elementor-widget-heading" data-id="8085c36" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Our projects</h6> </div>
-                                            </div>-->
-                                            <div class="elementor-element elementor-element-3d9fd31 elementor-widget elementor-widget-heading" data-id="3d9fd31" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><i>“Our youths are not failing the system; the system is failing our youths. Ironically, the very youths who are being treated the worst are the young people who are going to lead us out of this nightmare.”</i> <small>&mdash; Rachel Jackson</small></h5> </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-36e190f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="36e190f" data-element_type="widget" data-widget_type="divider.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-6b374d6 elementor-widget elementor-widget-text-editor" data-id="6b374d6" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-element elementor-element-a44fa29 elementor-widget elementor-widget-text-editor" data-id="a44fa29" data-element_type="widget" data-widget_type="text-editor.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-text-editor elementor-clearfix">Theory of Change</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-row">
-                                                        <div class="elementor-text-editor elementor-column elementor-col-100 elementor-clearfix" align="justify">
-                                                            <p class="theory-p">Our society bears the burden of birthing young leaders devoid of knowledge on how to thrive and create positive impact. A problem that stems from a mismanaged and non-inclusive educational system that we take no pride in. Gradually our educational system increases in number but not in corresponding quality and inclusiveness especially in low income communities.
-                                                                <br><br>
-                                                                <q class="big-qoute"><b>“The foundation of every state is the education of its youth.”</b> - Diogenes</q>
-                                                                <br><br>
-                                                                Sadly, the term “education” has been limited to grades and basic information in the four walls of a classroom. A significant number of youths step out of this, oblivious of life’s realities and skills, thereby adding to the pile of youths having nugatory effect on the society.
-                                                                <br><br>
-                                                                We understand that pointing fingers doesn't effect change. Therefore we have identified this problem and we’re making steps no matter how small to fix and sustain it.
-                                                                <br><br>
-                                                                With adequate trainings, mentorship, research materials, publications, innovative and developmental strategies; we can switch up the narrative of the every day youth thereby enhancing the sustainable development goal 4 (quality education) and ultimately increase goal 8 (decent work and economic growth) with measuring impact in years to come.
-                                                            </p>
-                                                            <!--                                                            <p>“The foundation of every state is the education of its youth.” - Diogenes</p>-->
-                                                        </div>
-                                                        <div class="elementor-column elementor-col-100 mb--top">
-                                                            <img class="theory-center-image" src="assets/images/center.jpeg" alt="">
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                    <h5 class="elementor-heading-title elementor-size-default"><?= $blog['content'] ?></h5> </div>
                                             </div>
                                         </div>
                                     </div>
