@@ -24,6 +24,9 @@
     font-size: 2rem;
 }
 
+.tab-content>.active {
+    display: inherit !important;
+}
 
 @media screen and (min-width: 790px) {
 
