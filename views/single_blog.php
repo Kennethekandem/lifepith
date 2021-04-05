@@ -43,13 +43,6 @@
                                                                 </span>
                                                             </div>
 
-                                                            <span class="likes">
-                                                                <span style="margin-right: 15px;">
-                                                                    <i class="fa fa-heart"></i>
-                                                                    334
-                                                                </span>
-                                                            </span>
-
                                                             <div style="margin-top: 30px;" id="disqus_thread"></div>
                                                         </div>
                                                     </div>
