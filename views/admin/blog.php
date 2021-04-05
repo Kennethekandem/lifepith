@@ -6,8 +6,10 @@ if($routes[3] != '') {
     if(in_array($routes[3], $pages)) {
         $page = $routes[3];
 
-        if($page == 'single') {
-            $blog_id = $routes[4];
+        $blog_id = $routes[4];
+
+        if($page == 'single' || $page == 'edit') {
+
             $blog = blog::single($blog_id);
         }
     }else {

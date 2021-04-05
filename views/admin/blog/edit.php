@@ -1,0 +1,2 @@
+<?php
+request::pre($blog);

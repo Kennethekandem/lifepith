@@ -42,7 +42,7 @@
                             <div class="dropdown-menu dropdown-menu-right dropdown" style="width: 150px;" aria-labelledby="actions1Invoker">
                                 <ul class="list-unstyled mb-0">
                                     <li>
-                                        <a class="d-flex align-items-center link-muted py-2 px-3" href="tables.html#!">
+                                        <a class="d-flex align-items-center link-muted py-2 px-3" href="admin/blog/edit/<?= $blog_id; ?>">
                                             <i class="fa fa-plus mr-2"></i> Edit
                                         </a>
                                     </li>
