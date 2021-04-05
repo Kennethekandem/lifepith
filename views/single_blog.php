@@ -35,6 +35,28 @@
                                             <div class="elementor-element elementor-element-8085c36 elementor-widget elementor-widget-heading" data-id="8085c36" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
                                                     <h5 class="elementor-heading-title elementor-size-default"><?= $blog['content'] ?></h5> </div>
+
+                                                    <div class="elementor-element elementor-element-919b06c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="919b06c" data-element_type="widget" data-widget_type="divider.default">
+                                                        <div class="elementor-widget-container">
+                                                            <div class="elementor-divider" style="margin-bottom: 20px;">
+                                                                <span class="elementor-divider-separator">
+                                                                </span>
+                                                            </div>
+
+                                                            <span class="likes">
+                                                                <span style="margin-right: 15px;">
+                                                                    <i class="fa fa-heart"></i>
+                                                                    334
+                                                                </span>
+                                                                <span>
+                                                                    <i class="fa fa-comments"></i>
+                                                                    24
+                                                                </span>
+                                                            </span>
+
+                                                            <div id="disqus_thread"></div>
+                                                        </div>
+                                                    </div>
                                             </div>
                                         </div>
                                     </div>
