@@ -48,20 +48,9 @@
                 </textarea>
             </div>
 
-            <div class="form-group col-2" style="padding:0">
-                <label class="d-flex align-items-center justify-content-between">
-                    <div class="form-toggle">
-                        <input name="publish" type="checkbox">
+            <input type="hidden" name="blog_id" value="<?= $blog['id']; ?>">
 
-                        <div class="form-toggle__item">
-                            <i class="d-inline-block"></i>
-                        </div>
-                    </div>
-                    <span class="form-label-text">Publish</span>
-                </label>
-            </div>
-
-            <button class="btn btn-primary btn-block" type="submit" name="add">Add Blog</button>
+            <button class="btn btn-primary btn-block" type="submit" name="add">Edit Blog</button>
         </form>
     </div>
 </div>
