@@ -22,13 +22,14 @@
                 $blogs = blog::all();
 
                 foreach($blogs as $blog) {
+                    $blog_id = $blog['id'];
                     $title = $blog['title'];
                     $category = $blog['category'];
                     $writer = $blog['writer'];
                     $date = $blog['timestamp'];
                     ?>
                     <tr>
-                        <td><a href=""><?= $title; ?></a></td>
+                        <td><a href="admin/blog/single/<?= $blog_id; ?>"><?= $title; ?></a></td>
                         <td><?= $category; ?></td>
                         <td><?= $writer; ?></td>
                         <td><?= request::timeago($date); ?></td>

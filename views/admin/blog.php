@@ -5,6 +5,11 @@ $pages = array("single", "add", "edit", "category");
 if($routes[3] != '') {
     if(in_array($routes[3], $pages)) {
         $page = $routes[3];
+
+        if($page == 'single') {
+            $blog_id = $routes[4];
+            $blog = blog::single($blog_id);
+        }
     }else {
         header("location:admin");
     }
