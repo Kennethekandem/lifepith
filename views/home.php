@@ -218,7 +218,7 @@
                                             <div class="elementor-element elementor-element-c1ab1a8 elementor-align-justify elementor-widget elementor-widget-button" data-id="c1ab1a8" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                        <a href="contact" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-text">Join our community</span>
                                                             </span>
@@ -264,7 +264,7 @@
                                             <div class="elementor-element elementor-element-bd5c327 elementor-align-center elementor-widget elementor-widget-button" data-id="bd5c327" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                        <a href="blog" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-text">Read blogs</span>
                                                             </span>
