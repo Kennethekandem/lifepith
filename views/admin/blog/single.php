@@ -8,6 +8,17 @@
             <div class="card-text">
                 <?= $blog['content']; ?>
             </div>
+            <span class="likes">
+                <span style="margin-right: 15px;">
+                    <i class="fa fa-heart"></i>
+                    350
+                </span>
+                <span>
+                    <i class="fa fa-comment"></i>
+                    5
+                </span>
+            </span>
+            <hr>
             <span>
                 <a href=""><i class="fa fa-edit"></i></a>
                 <a href="" class="text-danger"><i class="fa fa-trash"></i></a>

@@ -20,6 +20,10 @@
     height: 350px;
 }
 
+.likes i {
+    font-size: 2rem;
+}
+
 @media screen and (min-width: 790px) {
 
 
