@@ -20,41 +20,45 @@
                 <tbody>
                 <?php
 
-                foreach($blogs as $blog) {
-                    $blog_id = $blog['id'];
-                    $title = $blog['title'];
-                    $category = $blog['category'];
-                    $writer = $blog['writer'];
-                    $date = $blog['timestamp'];
-                    ?>
-                    <tr>
-                        <td><a href="admin/blog/single/<?= $blog_id; ?>"><?= $title; ?></a></td>
-                        <td><?= $category; ?></td>
-                        <td><?= $writer; ?></td>
-                        <td><?= request::timeago($date); ?></td>
-                        <td class="text-center">
-                            <a id="actions1Invoker" class="link-muted" href="tables.html#!" aria-haspopup="true" aria-expanded="false"
-                               data-toggle="dropdown">
-                                <i class="fa fa-sliders-h"></i>
-                            </a>
+                if($blogs) {
+                    foreach($blogs as $blog) {
+                        $blog_id = $blog['id'];
+                        $title = $blog['title'];
+                        $category = $blog['category'];
+                        $writer = $blog['writer'];
+                        $date = $blog['timestamp'];
+                        ?>
+                        <tr>
+                            <td><a href="admin/blog/single/<?= $blog_id; ?>"><?= $title; ?></a></td>
+                            <td><?= $category; ?></td>
+                            <td><?= $writer; ?></td>
+                            <td><?= request::timeago($date); ?></td>
+                            <td class="text-center">
+                                <a id="actions1Invoker" class="link-muted" href="tables.html#!" aria-haspopup="true" aria-expanded="false"
+                                   data-toggle="dropdown">
+                                    <i class="fa fa-sliders-h"></i>
+                                </a>
 
-                            <div class="dropdown-menu dropdown-menu-right dropdown" style="width: 150px;" aria-labelledby="actions1Invoker">
-                                <ul class="list-unstyled mb-0">
-                                    <li>
-                                        <a class="d-flex align-items-center link-muted py-2 px-3" href="admin/blog/edit/<?= $blog_id; ?>">
-                                            <i class="fa fa-plus mr-2"></i> Edit
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="d-flex align-items-center link-muted py-2 px-3" href="tables.html#!">
-                                            <i class="fa fa-minus mr-2"></i> Remove
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </td>
-                    </tr>
-                    <?php
+                                <div class="dropdown-menu dropdown-menu-right dropdown" style="width: 150px;" aria-labelledby="actions1Invoker">
+                                    <ul class="list-unstyled mb-0">
+                                        <li>
+                                            <a class="d-flex align-items-center link-muted py-2 px-3" href="admin/blog/edit/<?= $blog_id; ?>">
+                                                <i class="fa fa-plus mr-2"></i> Edit
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="d-flex align-items-center link-muted py-2 px-3" href="tables.html#!">
+                                                <i class="fa fa-minus mr-2"></i> Remove
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                        <?php
+                    }
+                }else {
+                    respond::alert('warning', '', 'No blogs for this category');
                 }
                 ?>
                 </tbody>
