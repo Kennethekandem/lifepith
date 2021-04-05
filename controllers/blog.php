@@ -90,4 +90,15 @@ class blog
         return $db->single("SELECT category FROM categories WHERE id = :id", array('id' => $category_id));
 
     }
+
+    public static function delete($blog_id) {
+        global $db;
+
+        $thumbnail = $db->single("SELECT thumbnail FROM blogs WHERE id = :blog_id", array("blog_id" => $blog_id));
+        upload::remove($thumbnail, config::baseUploadUrl());
+
+        $delete = $db->query("DELETE FROM blogs WHERE id = :blog_id", array('blog_id' => $blog_id));
+
+        respond::alert('success', '', 'Blog deleted successfully');
+    }
 }
