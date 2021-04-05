@@ -47,7 +47,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="d-flex align-items-center link-muted py-2 px-3" href="tables.html#!">
+                                            <a class="d-flex align-items-center link-muted py-2 px-3" data-toggle="modal" href="#exampleModal" onclick="$('.blog_id').val('<?= $blog_id; ?>');">
                                                 <i class="fa fa-minus mr-2"></i> Remove
                                             </a>
                                         </li>

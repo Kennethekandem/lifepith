@@ -2,6 +2,10 @@
 
 $pages = array("dashboard", "blog", "login", "logout");
 
+if($_POST['delete']) {
+    blog::delete($_POST['blog_id']);
+}
+
 if($routes[2] != '') {
     if(in_array($routes[2], $pages)) {
         $page = $routes[2];
