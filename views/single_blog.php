@@ -48,13 +48,9 @@
                                                                     <i class="fa fa-heart"></i>
                                                                     334
                                                                 </span>
-                                                                <span>
-                                                                    <i class="fa fa-comments"></i>
-                                                                    24
-                                                                </span>
                                                             </span>
 
-                                                            <div id="disqus_thread"></div>
+                                                            <div style="margin-top: 30px;" id="disqus_thread"></div>
                                                         </div>
                                                     </div>
                                             </div>
