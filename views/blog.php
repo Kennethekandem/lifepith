@@ -48,7 +48,7 @@
                                                                 $category_name = $category['category'];
                                                                 ?>
                                                                 <li class="nav-item" role="presentation">
-                                                                    <button class="nav-link " id="pills-<?= $category_name; ?>-tab" data-bs-toggle="pill" data-bs-target="#pills-<?= $category_name; ?>" type="button" role="tab" aria-controls="pills-<?= $category_name; ?>" aria-selected="true"><?= $category_name; ?></button>
+                                                                    <button class="nav-link <?php if($category_name === 'Leadership') { echo 'active'; } ?>" id="pills-<?= $category_name; ?>-tab" data-bs-toggle="pill" data-bs-target="#pills-<?= $category_name; ?>" type="button" role="tab" aria-controls="pills-<?= $category_name; ?>" aria-selected="true"><?= $category_name; ?></button>
                                                                 </li>
                                                             <?php
                                                             }
@@ -62,13 +62,16 @@
                                                        $blogs = blog::category(1);
 
                                                        foreach($blogs as $blog) {
+                                                           $title = $blog['title'];
+                                                           $date = $blog['day'] . ' ' . $blog['month'] . ', ' . $blog['year'];
+                                                           $thumbnail = config::baseUploadUrl() . $blog['thumbnail'];
                                                            ?>
                                                            <div class="elementor-column elementor-inner-column elementor-col-33 elementor-element elementor-element-6f8dbf1">
                                                                <div class="elementor-column-wrap elementor-element-populated">
                                                                    <div class="elementor-widget-wrap">
                                                                        <div class="elementor-element elementor-element-9b646f0 elementor-widget elementor-widget-heading" data-id="9b646f0" data-element_type="widget" data-widget_type="heading.default">
                                                                            <div class="elementor-widget-container">
-                                                                               <h6 class="elementor-heading-title elementor-size-default">17 July, 2020</h6> </div>
+                                                                               <h6 class="elementor-heading-title elementor-size-default"><?= $date; ?></h6> </div>
                                                                        </div>
                                                                        <div class="elementor-element elementor-element-919b06c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="919b06c" data-element_type="widget" data-widget_type="divider.default">
                                                                            <div class="elementor-widget-container">
@@ -80,12 +83,10 @@
                                                                        </div>
                                                                        <div class="elementor-element elementor-element-18ccba2 elementor-widget elementor-widget-heading" data-id="18ccba2" data-element_type="widget" data-widget_type="heading.default">
                                                                            <div class="elementor-widget-container">
-                                                                               <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#">Education Programmes that lorem ipsum</a></h4> </div>
-                                                                       </div>
-                                                                       <div class="elementor-element elementor-element-7b8dc5e elementor-widget elementor-widget-text-editor" data-id="7b8dc5e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                           <div class="elementor-widget-container">
-                                                                               <div class="elementor-text-editor elementor-clearfix">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis nec a odio.</div>
-                                                                           </div>
+                                                                               <div>
+                                                                                   <img src="<?= $thumbnail ?>" alt="">
+                                                                               </div>
+                                                                               <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#"><?= $title; ?></a></h4> </div>
                                                                        </div>
                                                                        <div class="elementor-element elementor-element-79cfc23 elementor-align-justify elementor-widget elementor-widget-button" data-id="79cfc23" data-element_type="widget" data-widget_type="button.default">
                                                                            <div class="elementor-widget-container">
@@ -111,13 +112,16 @@
                                                         $blogs = blog::category(2);
 
                                                         foreach($blogs as $blog) {
+                                                            $title = $blog['title'];
+                                                            $date = $blog['day'] . ' ' . $blog['month'] . ', ' . $blog['year'];
+                                                            $thumbnail = config::baseUploadUrl() . $blog['thumbnail'];
                                                             ?>
                                                             <div class="elementor-column elementor-inner-column elementor-col-33 elementor-element elementor-element-6f8dbf1">
                                                                 <div class="elementor-column-wrap elementor-element-populated">
                                                                     <div class="elementor-widget-wrap">
                                                                         <div class="elementor-element elementor-element-9b646f0 elementor-widget elementor-widget-heading" data-id="9b646f0" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <h6 class="elementor-heading-title elementor-size-default">17 July, 2020</h6> </div>
+                                                                                <h6 class="elementor-heading-title elementor-size-default"><?= $date; ?></h6> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-919b06c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="919b06c" data-element_type="widget" data-widget_type="divider.default">
                                                                             <div class="elementor-widget-container">
@@ -129,12 +133,10 @@
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-18ccba2 elementor-widget elementor-widget-heading" data-id="18ccba2" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#">Education Programmes that lorem ipsum</a></h4> </div>
-                                                                        </div>
-                                                                        <div class="elementor-element elementor-element-7b8dc5e elementor-widget elementor-widget-text-editor" data-id="7b8dc5e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="elementor-text-editor elementor-clearfix">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis nec a odio.</div>
-                                                                            </div>
+                                                                                <div>
+                                                                                    <img src="<?= $thumbnail ?>" alt="">
+                                                                                </div>
+                                                                                <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#"><?= $title; ?></a></h4> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-79cfc23 elementor-align-justify elementor-widget elementor-widget-button" data-id="79cfc23" data-element_type="widget" data-widget_type="button.default">
                                                                             <div class="elementor-widget-container">
@@ -155,18 +157,21 @@
                                                         ?>
                                                     </div>
 
-                                                    <div class="tab-pane fade elementor-row" role="tabpanel" aria-labelledby="pills-Faith-tab" id="pills-Faith">
+                                                    <div class="tab-pane fade elementor-row" role="tabpanel" aria-labelledby="pills-Lifestyle-tab" id="pills-Lifestyle">
                                                         <?php
                                                         $blogs = blog::category(3);
 
                                                         foreach($blogs as $blog) {
+                                                            $title = $blog['title'];
+                                                            $date = $blog['day'] . ' ' . $blog['month'] . ', ' . $blog['year'];
+                                                            $thumbnail = config::baseUploadUrl() . $blog['thumbnail'];
                                                             ?>
                                                             <div class="elementor-column elementor-inner-column elementor-col-33 elementor-element elementor-element-6f8dbf1">
                                                                 <div class="elementor-column-wrap elementor-element-populated">
                                                                     <div class="elementor-widget-wrap">
                                                                         <div class="elementor-element elementor-element-9b646f0 elementor-widget elementor-widget-heading" data-id="9b646f0" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <h6 class="elementor-heading-title elementor-size-default">17 July, 2020</h6> </div>
+                                                                                <h6 class="elementor-heading-title elementor-size-default"><?= $date; ?></h6> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-919b06c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="919b06c" data-element_type="widget" data-widget_type="divider.default">
                                                                             <div class="elementor-widget-container">
@@ -178,12 +183,10 @@
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-18ccba2 elementor-widget elementor-widget-heading" data-id="18ccba2" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#">Education Programmes that lorem ipsum</a></h4> </div>
-                                                                        </div>
-                                                                        <div class="elementor-element elementor-element-7b8dc5e elementor-widget elementor-widget-text-editor" data-id="7b8dc5e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="elementor-text-editor elementor-clearfix">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis nec a odio.</div>
-                                                                            </div>
+                                                                                <div>
+                                                                                    <img src="<?= $thumbnail ?>" alt="">
+                                                                                </div>
+                                                                                <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#"><?= $title; ?></a></h4> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-79cfc23 elementor-align-justify elementor-widget elementor-widget-button" data-id="79cfc23" data-element_type="widget" data-widget_type="button.default">
                                                                             <div class="elementor-widget-container">
@@ -204,18 +207,21 @@
                                                         ?>
                                                     </div>
 
-                                                    <div class="tab-pane fade elementor-row" role="tabpanel" aria-labelledby="pills-Faith-tab" id="pills-Faith">
+                                                    <div class="tab-pane fade elementor-row" role="tabpanel" aria-labelledby="pills-Health-tab" id="pills-Health">
                                                         <?php
                                                         $blogs = blog::category(4);
 
                                                         foreach($blogs as $blog) {
+                                                            $title = $blog['title'];
+                                                            $date = $blog['day'] . ' ' . $blog['month'] . ', ' . $blog['year'];
+                                                            $thumbnail = config::baseUploadUrl() . $blog['thumbnail'];
                                                             ?>
                                                             <div class="elementor-column elementor-inner-column elementor-col-33 elementor-element elementor-element-6f8dbf1">
                                                                 <div class="elementor-column-wrap elementor-element-populated">
                                                                     <div class="elementor-widget-wrap">
                                                                         <div class="elementor-element elementor-element-9b646f0 elementor-widget elementor-widget-heading" data-id="9b646f0" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <h6 class="elementor-heading-title elementor-size-default">17 July, 2020</h6> </div>
+                                                                                <h6 class="elementor-heading-title elementor-size-default"><?= $date; ?></h6> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-919b06c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="919b06c" data-element_type="widget" data-widget_type="divider.default">
                                                                             <div class="elementor-widget-container">
@@ -227,12 +233,10 @@
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-18ccba2 elementor-widget elementor-widget-heading" data-id="18ccba2" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#">Education Programmes that lorem ipsum</a></h4> </div>
-                                                                        </div>
-                                                                        <div class="elementor-element elementor-element-7b8dc5e elementor-widget elementor-widget-text-editor" data-id="7b8dc5e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="elementor-text-editor elementor-clearfix">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis nec a odio.</div>
-                                                                            </div>
+                                                                                <div>
+                                                                                    <img src="<?= $thumbnail ?>" alt="">
+                                                                                </div>
+                                                                                <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#"><?= $title; ?></a></h4> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-79cfc23 elementor-align-justify elementor-widget elementor-widget-button" data-id="79cfc23" data-element_type="widget" data-widget_type="button.default">
                                                                             <div class="elementor-widget-container">

@@ -28,7 +28,7 @@ class blog
             'thumbnail' => $thumbnail,
             'publish' => $publish,
             'now' => time(),
-            'day' => date("D"),
+            'day' => date("d"),
             'month' => date("M"),
             'year' => date("Y")
         ));
