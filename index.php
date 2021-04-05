@@ -67,13 +67,18 @@ foreach($routes as $route)
 Now, $routes will contain all the routes. $routes[0] will correspond to first route. For e.g. in above example $routes[0] is search, $routes[1] is book and $routes[2] is fitzgerald
 */
 
-$pages = array("home", "about", "theory", "contact", "blog", "admin");
+$pages = array("home", "about", "theory", "contact", "blog", "single_blog", "admin");
 
 if ($routes[1] != '') {
 
     if(in_array($routes[1], $pages)){
 
         $page = $routes[1];
+
+        if($page == 'single_blog') {
+            $blog_id = $routes[2];
+            $blog = blog::single($blog_id);
+        }
 
     }else{
 

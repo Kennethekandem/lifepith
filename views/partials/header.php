@@ -46,6 +46,7 @@
     <link rel='stylesheet' id='elementor-icons-shared-0-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min-ver=5.15.1.css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='assets/plugins/elementor/assets/lib/font-awesome/css/regular.min-ver=5.15.1.css' media='all' />
     <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/blog.css">
     <!--[if IE]>
     <script src='https://websitedemos.net/women-empowerment-02/assets/js/minified/flexibility.min.js?ver=3.0.3' id='astra-flexibility-js'></script>
     <script id='astra-flexibility-js-after'>

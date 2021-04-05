@@ -62,6 +62,7 @@
                                                        $blogs = blog::category(1);
 
                                                        foreach($blogs as $blog) {
+                                                           $blog_id = $blog['id'];
                                                            $title = $blog['title'];
                                                            $date = $blog['day'] . ' ' . $blog['month'] . ', ' . $blog['year'];
                                                            $thumbnail = config::baseUploadUrl() . $blog['thumbnail'];
@@ -86,7 +87,7 @@
                                                                                <div>
                                                                                    <img src="<?= $thumbnail ?>" alt="">
                                                                                </div>
-                                                                               <h4 class="elementor-heading-title elementor-size-default"><a href="index.html#"><?= $title; ?></a></h4> </div>
+                                                                               <h4 class="elementor-heading-title elementor-size-default"><a href="single_blog/<?= $blog_id; ?>"><?= $title; ?></a></h4> </div>
                                                                        </div>
                                                                        <div class="elementor-element elementor-element-79cfc23 elementor-align-justify elementor-widget elementor-widget-button" data-id="79cfc23" data-element_type="widget" data-widget_type="button.default">
                                                                            <div class="elementor-widget-container">
