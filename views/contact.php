@@ -50,7 +50,49 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-6b6393b elementor-widget elementor-widget-shortcode" data-id="6b6393b" data-element_type="widget" data-widget_type="shortcode.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-shortcode"><div class="wpforms-container " id="wpforms-5"><form id="wpforms-form-5" class="wpforms-validate wpforms-form" data-formid="5" method="post" enctype="multipart/form-data" action="/women-empowerment-02/contact/" data-token="45906dfee96425f2838a6ed8b2043e95"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-5-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-5-field_0">Name <span class="wpforms-required-label">*</span></label><div class="wpforms-field-row wpforms-field-large"><div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input type="text" id="wpforms-5-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" required><label for="wpforms-5-field_0" class="wpforms-field-sublabel after ">First</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="text" id="wpforms-5-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" required><label for="wpforms-5-field_0-last" class="wpforms-field-sublabel after ">Last</label></div></div></div><div id="wpforms-5-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-5-field_1">Email <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-5-field_1" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][1]" required></div><div id="wpforms-5-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-5-field_2">Message <span class="wpforms-required-label">*</span></label><textarea id="wpforms-5-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" required></textarea></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-5-field-hp" class="wpforms-field-label">Message</label><input type="text" name="wpforms[hp]" id="wpforms-5-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="5"><input type="hidden" name="wpforms[author]" value="20"><input type="hidden" name="wpforms[post_id]" value="10"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-5" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Send">Send</button></div></form></div> </div>
+                                                    <div class="elementor-shortcode">
+                                                        <div class="wpforms-container " id="wpforms-5">
+                                                            <form id="wpforms-form-5" class="wpforms-validate wpforms-form" data-formid="5" method="post" enctype="multipart/form-data" action="">
+                                                                <?php
+                                                                if(isset($_POST['contact'])) {
+                                                                    contact::contactUs($_POST['fname'], $_POST['lname'], $_POST['email'], $_POST['message']);
+                                                                }
+                                                                ?>
+                                                                <div class="wpforms-field-container">
+                                                                    <div id="wpforms-5-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0">
+                                                                        <label class="wpforms-field-label" for="wpforms-5-field_0">Name
+                                                                            <span class="wpforms-required-label">*</span>
+                                                                        </label>
+                                                                        <div class="wpforms-field-row wpforms-field-large">
+                                                                            <div class="wpforms-field-row-block wpforms-first wpforms-one-half">
+                                                                                <input type="text" id="wpforms-5-field_0" class="wpforms-field-name-first wpforms-field-required" name="fname" required>
+                                                                                <label for="wpforms-5-field_0" class="wpforms-field-sublabel after ">First</label>
+                                                                            </div>
+                                                                            <div class="wpforms-field-row-block wpforms-one-half">
+                                                                                <input type="text" id="wpforms-5-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="lname" required>
+                                                                                <label for="wpforms-5-field_0-last" class="wpforms-field-sublabel after ">Last</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div id="wpforms-5-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1">
+                                                                        <label class="wpforms-field-label" for="wpforms-5-field_1">Email
+                                                                            <span class="wpforms-required-label">*</span>
+                                                                        </label>
+                                                                        <input type="email" id="wpforms-5-field_1" class="wpforms-field-large wpforms-field-required" name="email" required>
+                                                                    </div>
+                                                                    <div id="wpforms-5-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2">
+                                                                        <label class="wpforms-field-label" for="wpforms-5-field_2">Message
+                                                                            <span class="wpforms-required-label">*</span>
+                                                                        </label>
+                                                                        <textarea id="wpforms-5-field_2" class="wpforms-field-medium wpforms-field-required" name="message" required></textarea>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="wpforms-submit-container">
+                                                                    <button type="submit" name="contact" class="wpforms-submit " value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Send">Send</button>
+                                                                </div>
+                                                            </form>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
