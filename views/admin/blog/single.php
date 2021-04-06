@@ -11,20 +11,10 @@
             <div class="card-text">
                 <?= $blog['content']; ?>
             </div>
-            <span class="likes">
-                <span style="margin-right: 15px;">
-                    <i class="fa fa-heart"></i>
-                    350
-                </span>
-                <span>
-                    <i class="fa fa-comment"></i>
-                    5
-                </span>
-            </span>
             <hr>
             <span>
-                <a href=""><i class="fa fa-edit"></i></a>
-                <a href="" class="text-danger"><i class="fa fa-trash"></i></a>
+                <a href="admin/blog/edit/<?= $blog['id']; ?>"><i class="fa fa-edit"></i></a>
+                <a class="text-danger" data-toggle="modal" href="#exampleModal" onclick="$('.blog_id').val('<?= $blog['id']; ?>');"><i class="fa fa-trash"></i></a>
             </span>
         </div>
     </div>
