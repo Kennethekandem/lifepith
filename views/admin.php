@@ -2,7 +2,7 @@
 
 $pages = array("dashboard", "blog", "login", "logout");
 
-if($_POST['delete']) {
+if(isset($_POST['delete'])) {
     blog::delete($_POST['blog_id']);
 }
 
