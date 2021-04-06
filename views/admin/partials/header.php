@@ -75,7 +75,7 @@
         <!-- User Profile -->
         <div class="dropdown ml-2">
             <a class="link-muted d-flex align-items-center" href="index.html#!" role="button" id="dropdownMenuLink" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">
-                <img class="u-avatar--xs img-fluid rounded-circle mr-2" src="assets/admin/img/avatars/img1.jpg" alt="User Profile">
+                <img class="u-avatar--xs img-fluid rounded-circle mr-2" src="assets/admin/img/avatar.png" alt="User Profile">
                 <span class="text-dark d-none d-sm-inline-block">
 							<?= $admin_name; ?> <small class="fa fa-angle-down text-muted ml-1"></small>
 						</span>
