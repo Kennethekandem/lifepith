@@ -51,10 +51,10 @@ class mail {
             .logo-padding {
                 padding-left: 30px !important;
             }
-            .mail-content {
+            .contact-content {
                 width: 100%;
             }
-            .mail-body {
+            .contact-body {
                 width: 100% !important;
                 margin-left: -20px;
             }
