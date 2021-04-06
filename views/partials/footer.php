@@ -15,7 +15,7 @@
                     <div class="site-footer-above-section-1 site-footer-section site-footer-section-1">
                         <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-1">
                             <div class="footer-widget-area-inner site-info-inner">
-                                <section id="media_image-3" class="widget widget_media_image" style="margin:0;"><img width="100" height="150" src="<?= config::logo_white() ?>" class="image attachment-thumbnail size-thumbnail" alt="Logo Regular" loading="lazy" style="max-width: 100%; height: auto;" srcset="<?= config::logo_white() ?> 1x, <?= config::logo_white() ?> 2x" /></section><section id="text-3" class="widget widget_text"> <div class="textwidget"><p>We envision a more just and peaceful lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec.</p>
+                                <section id="media_image-3" class="widget widget_media_image" style="margin:0;"><img width="100" height="150" src="<?= config::logo_white() ?>" class="image attachment-thumbnail size-thumbnail" alt="Logo Regular" loading="lazy" style="max-width: 100%; height: auto;" srcset="<?= config::logo_white() ?> 1x, <?= config::logo_white() ?> 2x" /></section><section id="text-3" class="widget widget_text"> <div class="textwidget"><p>
                                     </div>
                                 </section><section id="text-4" class="widget widget_text"><h2 class="widget-title">Follow Us</h2> <div class="textwidget"></div>
                                 </section> </div>
