@@ -11,6 +11,10 @@ class contact
         $subject = 'Contact Us';
         $msg = $message;
 
-        mail::send($from, $sender, $to, $subject, $msg);
+        $mail = mail::send($from, $sender, $to, $subject, $msg);
+
+        if($mail) {
+            respond::alert('success', '', 'Mail sent successfully');
+        }
     }
 }

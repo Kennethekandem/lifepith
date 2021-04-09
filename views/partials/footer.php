@@ -23,7 +23,7 @@
                         <div class="ast-builder-layout-element ast-flex site-footer-focus-item" data-section="section-fb-social-icons-1">
                             <div class="ast-footer-social-1-wrap ast-footer-social-wrap">
                                 <div class="footer-social-inner-wrap element-social-inner-wrap social-show-label-false ast-social-color-type-custom ast-social-element-style-filled">
-                                    <a href="https://www.facebook.com/LifePithNigeria" target="_blank" rel="noopener noreferrer" style="--color: #557dbc; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-facebook footer-social-item">
+                                    <a href="<?= config::facebook(); ?>" target="_blank" rel="noopener noreferrer" style="--color: #557dbc; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-facebook footer-social-item">
                                         <span class="ahfb-svg-iconset ast-inline-flex svg-baseline">
                                             <svg aria-labelledby='facebook' xmlns='http://www.w3.org/2000/svg' width='24' height='28' viewBox='0 0 24 28'>
                                                 <title>Facebook</title>
@@ -31,7 +31,7 @@
                                             </svg>
                                         </span>
                                     </a>
-                                    <a href="https://www.linkedin.com/company/lifepithnigeria" target="_blank" rel="noopener noreferrer" style="--color: #7acdee; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-twitter footer-social-item">
+                                    <a href="<?= config::linkedin(); ?>" target="_blank" rel="noopener noreferrer" style="--color: #7acdee; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-twitter footer-social-item">
                                         <span class="ahfb-svg-iconset ast-inline-flex svg-baseline">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
                                                  aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -41,7 +41,7 @@
                                             </svg>
                                         </span>
                                     </a>
-                                    <a href="https://www.instagram.com/lifepith_blog/" target="_blank" rel="noopener noreferrer" style="--color: #8a3ab9; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-instagram footer-social-item">
+                                    <a href="<?= config::instagram(); ?>" target="_blank" rel="noopener noreferrer" style="--color: #8a3ab9; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-instagram footer-social-item">
                                         <span class="ahfb-svg-iconset ast-inline-flex svg-baseline">
                                             <svg aria-labelledby='instagram' xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'>
                                                 <title>Instagram</title>
