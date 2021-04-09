@@ -79,7 +79,7 @@ class mail {
                                                             <tr><td align="left" valign="top" class="mob_center">
                                                                     <a href="#" target="_blank" style="color: #596167; font-family: Arial, Helvetica, sans-serif; font-size: 13px;">
                                                                         <font face="Arial, Helvetica, sans-seri; font-size: 13px;" size="3" color="#596167">
-                                                                            <img src="https://lifepith.com/assets/images/logo.svg" style="height: 70px !important" alt="Logo" border="0" style="display: block;" /></font></a>
+                                                                            <img src="https://lifepith.org.ng/assets/images/logo.svg" style="height: 70px !important" alt="Logo" border="0" style="display: block;" /></font></a>
                                                                 </td></tr>
                                                         </table>
                                                     </td></tr>

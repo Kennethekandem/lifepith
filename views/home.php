@@ -218,9 +218,9 @@
                                             <div class="elementor-element elementor-element-c1ab1a8 elementor-align-justify elementor-widget elementor-widget-button" data-id="c1ab1a8" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a href="contact" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                        <a href="volunteer" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Join our community</span>
+                                                                <span class="elementor-button-text">Volunteer</span>
                                                             </span>
                                                         </a>
                                                     </div>
@@ -280,7 +280,7 @@
                     </section>
                     <section class="elementor-section elementor-top-section elementor-element elementor-element-2bc1e23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bc1e23" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                         <div class="elementor-element elementor-element-f47f12b elementor-widget mb--bottom elementor-widget-heading" data-id="f47f12b" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">
+                            <div class="elementor-widget-container" style="margin-bottom:70px;">
                                 <h6 class="elementor-heading-title elementor-size-default">Our team</h6>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-f66a07e elementor-widget elementor-widget-heading" data-id="f66a07e" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Team Lead role</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Team Lead</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-33ef1d0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="33ef1d0" data-element_type="widget" data-widget_type="divider.default">
@@ -322,7 +322,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-bd4a091 elementor-widget elementor-widget-heading" data-id="bd4a091" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Analyst role</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Analyst</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-0583ee1 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0583ee1" data-element_type="widget" data-widget_type="divider.default">
@@ -353,7 +353,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-b856ddd elementor-widget elementor-widget-heading" data-id="b856ddd" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Monitoring and Evaluation</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Human Resource Officer</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-40b2903 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="40b2903" data-element_type="widget" data-widget_type="divider.default">
@@ -450,40 +450,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="elementor-section elementor-top-section elementor-element elementor-element-62525519 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="62525519" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                        <div class="elementor-background-overlay"></div>
-                        <div class="elementor-container elementor-column-gap-no">
-                            <div class="elementor-row">
-                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e95d168" data-id="2e95d168" data-element_type="column">
-                                    <div class="elementor-column-wrap elementor-element-populated">
-                                        <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-46f8b25 elementor-widget elementor-widget-heading" data-id="46f8b25" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Want to make a difference?</h6>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-2b059517 elementor-widget elementor-widget-heading" data-id="2b059517" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">Help us raise money for our humanitarian causes</h2>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-b5be7a1 elementor-align-center elementor-widget elementor-widget-button" data-id="b5be7a1" data-element_type="widget" data-widget_type="button.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-button-wrapper">
-                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                            <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Donate</span>
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+                    <?php require("views/partials/donate.php"); ?>
                 </div>
             </div>
         </div>

@@ -88,7 +88,7 @@
                                     <div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
                                         <div class="site-branding">
                                             <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                                <span class="site-logo-img"><a href="<?= config::base(); ?>" class="custom-logo-link" rel="home" aria-current="page"><img width="150" height="54" src="<?= config::logo() ?>" class="custom-logo" alt="Logo Regular" srcset="<?= config::logo() ?> 1x, <?= config::logo() ?> 2x" sizes="(max-width: 150px) 100vw, 150px" /></a></span> </div>
+                                                <span class="site-logo-img"><a href="<?= config::base(); ?>" class="custom-logo-link" rel="home" aria-current="page"><img width="180" height="74" src="<?= config::logo() ?>" class="custom-logo" alt="Logo Regular" srcset="<?= config::logo() ?> 1x, <?= config::logo() ?> 2x" sizes="(max-width: 200px) 100vw, 200px" /></a></span> </div>
                                         </div>
 
                                     </div>

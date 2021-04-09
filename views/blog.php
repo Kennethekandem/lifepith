@@ -265,38 +265,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="elementor-section elementor-top-section elementor-element elementor-element-d93a5e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d93a5e7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                        <div class="elementor-background-overlay"></div>
-                        <div class="elementor-container elementor-column-gap-no">
-                            <div class="elementor-row">
-                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50d78970" data-id="50d78970" data-element_type="column">
-                                    <div class="elementor-column-wrap elementor-element-populated">
-                                        <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-1e867065 elementor-widget elementor-widget-heading" data-id="1e867065" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Want to make a difference?</h6> </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-19bb4fe5 elementor-widget elementor-widget-heading" data-id="19bb4fe5" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">Help us raise money for our humanitarian causes</h2> </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-5f9baeff elementor-align-center elementor-widget elementor-widget-button" data-id="5f9baeff" data-element_type="widget" data-widget_type="button.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-button-wrapper">
-                                                        <a href="index.html#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Donate</span>
-</span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+                    <?php require("views/partials/donate.php"); ?>
                 </div>
             </div>
         </div>
