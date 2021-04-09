@@ -102,7 +102,7 @@
                                                             <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home <?= $page == 'home' ? 'current-menu-item' : ''; ?> page_item page-item-6 current_page_item menu-item-26">
                                                                 <a href="<?= config::base(); ?>" aria-current="page" class="menu-link">Home</a>
                                                             </li>
-                                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type <?= $page == 'about' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-23"><a href="about" class="menu-link">Who we are</a></li>
+<!--                                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type --><?//= $page == 'about' ? 'current-menu-item' : ''; ?><!-- menu-item-object-page menu-item-23"><a href="about" class="menu-link">Who we are</a></li>-->
                                                             <li id="menu-item-22" class="menu-item menu-item-type-post_type <?= $page == 'theory' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-22"><a href="theory" class="menu-link">Our theory of change</a></li>
                                                            <li id="menu-item-21" class="menu-item menu-item-type-post_type <?= $page == 'blog' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-21"><a href="blog" class="menu-link">Blog</a></li>
                                                             <li id="menu-item-24" class="menu-item menu-item-type-post_type <?= $page == 'contact' ? 'current-menu-item' : ''; ?> menu-item-object-page menu-item-24"><a href="contact" class="menu-link">Contact Us</a></li>
@@ -162,7 +162,7 @@
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-26">
                                             <a href="<?= config::base(); ?>" aria-current="page" class="menu-link">Home</a>
                                         </li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="about" class="menu-link">Who we are</a></li>
+<!--                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="about" class="menu-link">Who we are</a></li>-->
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="theory" class="menu-link">Our theory of change</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="blog" class="menu-link">Blog</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="contact" class="menu-link">Contact</a></li>

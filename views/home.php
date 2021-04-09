@@ -74,7 +74,7 @@
                                             <div class="elementor-element elementor-element-7f5aa4f elementor-widget elementor-widget-button" data-id="7f5aa4f" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a href="about" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                        <a href="theory" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-text">Read more</span>
                                                             </span>

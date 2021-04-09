@@ -38,7 +38,7 @@ class config {
     }
 
     public static function address() {
-        return "";
+        return "We see a global community of well-informed, principled and equipped young leaders with knowledge for personal and societal development to drive Nigeria to it’s peak potential.";
     }
 
     public static function description() {
