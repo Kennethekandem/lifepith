@@ -90,7 +90,7 @@
                     <div class="site-footer-below-section-2 site-footer-section site-footer-section-2">
                         <div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-2" data-section="section-fb-html-2">
                             <div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p>Developed by
-                                        <a href="" style="color: #fff;">Kenneth Ekandem</a></p>
+                                        <a href="https://kennethekandem.netlify.app" style="color: #fff;">Kenneth Ekandem</a></p>
                                 </div></div> </div>
                     </div>
                 </div>
