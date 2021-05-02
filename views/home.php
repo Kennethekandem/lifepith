@@ -98,7 +98,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-image">
                                                         <a href="#">
-                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/07/what-we-do-01-free-img.jpg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/07/what-we-do-01-free-img.jpg 505w, assets/uploads/sites/632/2020/07/what-we-do-01-free-img-300x199.jpg 300w, assets/uploads/sites/632/2020/07/what-we-do-01-free-img-400x265.jpg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
+                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/new/IMG_1105.jpeg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/new/IMG_1105.jpeg 505w, assets/uploads/sites/632/2020/new/IMG_1105.jpeg 300w, assets/uploads/sites/632/2020/new/IMG_1105.jpeg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -130,7 +130,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-image">
                                                         <a href="#">
-                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/07/what-we-do-02-free-img.jpg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/07/what-we-do-02-free-img.jpg 505w, assets/uploads/sites/632/2020/07/what-we-do-02-free-img-300x199.jpg 300w, assets/uploads/sites/632/2020/07/what-we-do-02-free-img-400x265.jpg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
+                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/07/what-we-do-02-free-img.jpg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/new/IMG_1102.jpeg 505w, assets/uploads/sites/632/2020/new/IMG_1102.jpeg 300w, assets/uploads/sites/632/2020/new/IMG_1102.jpeg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -162,7 +162,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-image">
                                                         <a href="#">
-                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/07/what-we-do-03-free-img.jpg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/07/what-we-do-03-free-img.jpg 505w, assets/uploads/sites/632/2020/07/what-we-do-03-free-img-300x199.jpg 300w, assets/uploads/sites/632/2020/07/what-we-do-03-free-img-400x265.jpg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
+                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/new/IMG_1107.jpeg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/new/IMG_1107.jpeg 505w, assets/uploads/sites/632/2020/new/IMG_1107.jpeg 300w, assets/uploads/sites/632/2020/new/IMG_1107.jpeg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -303,7 +303,8 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-442fe04 elementor-widget elementor-widget-heading" data-id="442fe04" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
+                                                <div class="elementor-widget-container team-img">
+                                                    <img src="assets/images/becky.jpeg" alt="">
                                                     <h4 class="elementor-heading-title elementor-size-default"><a href="#">Rebecca Udom</a></h4>
                                                 </div>
                                             </div>
@@ -334,7 +335,8 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-44acbff elementor-widget elementor-widget-heading" data-id="44acbff" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
+                                                <div class="elementor-widget-container team-img">
+                                                    <img src="assets/images/emma.jpeg" alt="">
                                                     <h4 class="elementor-heading-title elementor-size-default"><a href="https://www.linkedin.com/in/emmanuel-burma-usoro/">Emmanuel Burma</a></h4>
                                                 </div>
                                             </div>
@@ -365,7 +367,8 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-0d2921e elementor-widget elementor-widget-heading" data-id="0d2921e" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
+                                                <div class="elementor-widget-container team-img">
+                                                    <img src="assets/images/mary.jpeg" alt="">
                                                     <h4 class="elementor-heading-title elementor-size-default"><a href="https://www.linkedin.com/in/mary-asanga-01161414b">Mary Asanga</a></h4>
                                                 </div>
                                             </div>

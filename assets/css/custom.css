@@ -36,6 +36,11 @@
     margin-top: 20px;
 }
 
+.team-img img{
+    height: 500px !important;
+    object-fit: cover;
+}
+
 @media screen and (min-width: 790px) {
 
 

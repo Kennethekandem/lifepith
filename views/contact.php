@@ -18,7 +18,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-8dd1b42 elementor-widget elementor-widget-heading" data-id="8dd1b42" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h1 class="elementor-heading-title elementor-size-default">Contact</h1> </div>
+                                                    <h1 class="elementor-heading-title elementor-size-default">Contact Us</h1> </div>
                                             </div>
                                         </div>
                                     </div>
