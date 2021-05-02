@@ -36,6 +36,11 @@
                                                 <div class="elementor-widget-container">
                                                     <h5 class="elementor-heading-title elementor-size-default"><?= $blog['content'] ?></h5> </div>
 
+                                                    <div>
+                                                        <p><b>Creative Director</b> - Rebecca Udom</p>
+                                                        <p><b>Content Editor</b> - <?= $blog['writer']; ?></p>
+                                                    </div>
+
                                                     <div class="elementor-element elementor-element-919b06c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="919b06c" data-element_type="widget" data-widget_type="divider.default">
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-divider" style="margin-bottom: 20px;">
