@@ -124,7 +124,6 @@
                             </div>
                         </div>
                     </section>
-                    <?php require("views/partials/donate.php"); ?>
                 </div>
             </div>
         </div>
