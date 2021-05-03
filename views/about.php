@@ -120,7 +120,7 @@
 																<div class="elementor-widget-wrap">
 																	<div class="elementor-element elementor-element-2815949 elementor-widget elementor-widget-heading" data-id="2815949" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h6 class="elementor-heading-title elementor-size-default">Come work with us</h6>
+																			<h6 class="elementor-heading-title elementor-size-default">Our Values</h6>
 																		</div>
 																	</div>
 																	<div class="elementor-element elementor-element-8c0ad5d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8c0ad5d" data-element_type="widget" data-widget_type="divider.default">
@@ -133,18 +133,10 @@
 																	</div>
 																	<div class="elementor-element elementor-element-bdcc943 elementor-widget elementor-widget-heading" data-id="bdcc943" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h3 class="elementor-heading-title elementor-size-default">If you would like to work for an organisation making a real impact non mauris vitae erat consequat auctor eu in.</h3>
-																		</div>
-																	</div>
-																	<div class="elementor-element elementor-element-4a9accf elementor-align-justify elementor-widget elementor-widget-button" data-id="4a9accf" data-element_type="widget" data-widget_type="button.default">
-																		<div class="elementor-widget-container">
-																			<div class="elementor-button-wrapper">
-																				<a href="index.html#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																					<span class="elementor-button-content-wrapper">
-																						<span class="elementor-button-text">View current vacancies</span>
-																					</span>
-																				</a>
-																			</div>
+																			<h3 class="elementor-heading-title elementor-size-default">&mdash; Commitment</h3>
+																			<h3 class="elementor-heading-title elementor-size-default">&mdash; Effective communication</h3>
+																			<h3 class="elementor-heading-title elementor-size-default">&mdash; Innovation</h3>
+																			<h3 class="elementor-heading-title elementor-size-default">&mdash; Measurable impact</h3>
 																		</div>
 																	</div>
 																</div>
