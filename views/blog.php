@@ -34,8 +34,8 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-8085c36 elementor-widget elementor-widget-heading" data-id="8085c36" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default">The Life Pith Blog is an informative hub of Life Pith Nigeria to provide publications and articles on leadership development, faith, lifestyle and sustainable development goals.
-                                                        All articles are properly researched and promise to aid personal and societal development. To publish with us,  contact us.</h5> </div>
+                                                    <h5 class="elementor-heading-title elementor-size-default">Our informative hub provides publications and articles on leadership development, faith, lifestyle and health. All articles are properly researched and promise to intrigue and enlighten. Dive in!.
+                                                        <br> <br> Want to publish with us? <a href="contact" class="text-primary">contact us</a></h5> </div>
                                             </div>
                                             <section class="elementor-section elementor-inner-section elementor-element elementor-element-74d1231 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74d1231" data-element_type="section">
                                                 <div class="elementor-element elementor-element-f47f12b elementor-widget mb--bottom elementor-widget-heading" data-id="f47f12b" data-element_type="widget" data-widget_type="text-editor.default">
@@ -265,7 +265,6 @@
                             </div>
                         </div>
                     </section>
-                    <?php require("views/partials/donate.php"); ?>
                 </div>
             </div>
         </div>
