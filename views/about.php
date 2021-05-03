@@ -19,7 +19,7 @@
 																	</div>
 																	<div class="elementor-element elementor-element-6b189d5 elementor-widget elementor-widget-heading" data-id="6b189d5" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h1 class="elementor-heading-title elementor-size-default">About Us</h1>
+																			<h1 class="elementor-heading-title elementor-size-default">Who we are</h1>
 																		</div>
 																	</div>
 																</div>
@@ -31,44 +31,36 @@
 											<section class="elementor-section elementor-top-section elementor-element elementor-element-add0515 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="add0515" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 												<div class="elementor-container elementor-column-gap-no">
 													<div class="elementor-row">
-														<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a09f1b" data-id="2a09f1b" data-element_type="column">
+														<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a09f1b" data-id="2a09f1b" data-element_type="column">
 															<div class="elementor-column-wrap elementor-element-populated">
 																<div class="elementor-widget-wrap">
 																	<div class="elementor-element elementor-element-7f8ade2 elementor-widget elementor-widget-heading" data-id="7f8ade2" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h6 class="elementor-heading-title elementor-size-default">Vision</h6>
+																			<h6 class="elementor-heading-title elementor-size-default"><b>Vision</b></h6>
 																		</div>
 																	</div>
-																	<div class="elementor-element elementor-element-fc89d7c elementor-widget elementor-widget-heading" data-id="fc89d7c" data-element_type="widget" data-widget_type="heading.default">
+																	<div class="elementor-element elementor-element-fc89d7c mt-4 elementor-widget elementor-widget-heading" data-id="fc89d7c" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h4 class="elementor-heading-title elementor-size-default">We see a global community of well-informed, principled and equipped young leaders with knowledge for personal and societal development to drive Nigeria to it’s peak potential.</h4>
+																			<h6 class="elementor-heading-title mission-vision-font elementor-size-default">We see a global community of well-informed, principled and equipped young leaders with knowledge for personal and societal development to drive Nigeria to it’s peak potential.</h6>
 																		</div>
 																	</div>
-																	<div class="elementor-element elementor-element-9410008 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9410008" data-element_type="widget" data-widget_type="divider.default">
-																		<div class="elementor-widget-container">
-																			<div class="elementor-divider">
-																				<span class="elementor-divider-separator">
-																				</span>
-																			</div>
-																		</div>
-																	</div>
-																	<section class="elementor-section elementor-inner-section elementor-element elementor-element-22aafbd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22aafbd" data-element_type="section">
-																		<div class="elementor-container elementor-column-gap-no">
-																			<div class="elementor-row">
-                                                                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9ba22c9" data-id="9ba22c9" data-element_type="column">
-																					<div class="elementor-column-wrap elementor-element-populated">
-																						<div class="elementor-widget-wrap">
-																							<div class="elementor-element elementor-element-550a74e elementor-widget elementor-widget-text-editor" data-id="550a74e" data-element_type="widget" data-widget_type="text-editor.default">
-																								<div class="elementor-widget-container">
-																									<div class="elementor-text-editor elementor-clearfix">To educate, equip and foster the growth of young leaders particularly in marginalized communities by providing the knowledge, research materials and skills necessary for their development.</div>
-																								</div>
-																							</div>
-                                                                                        </div>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</section>
+																</div>
+															</div>
+														</div>
+														<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a09f1b" data-id="2a09f1b" data-element_type="column">
+															<div class="elementor-column-wrap elementor-element-populated">
+																<div class="elementor-widget-wrap">
+
+                                                                    <div class="elementor-element elementor-element-7f8ade2 elementor-widget elementor-widget-heading" data-id="7f8ade2" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h6 class="elementor-heading-title elementor-size-default"><b>Mission</b></h6>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-element elementor-element-fc89d7c mt-4 elementor-widget elementor-widget-heading" data-id="fc89d7c" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h6 class="elementor-heading-title mission-vision-font elementor-size-default">To educate, equip and foster the growth of young leaders particularly in marginalized communities by providing the knowledge, research materials and skills necessary for their development.</h6>
+                                                                        </div>
+                                                                    </div>
 																</div>
 															</div>
 														</div>
@@ -84,7 +76,7 @@
 																<div class="elementor-widget-wrap">
 																	<div class="elementor-element elementor-element-d84b450 elementor-widget elementor-widget-heading" data-id="d84b450" data-element_type="widget" data-widget_type="heading.default">
 																		<div class="elementor-widget-container">
-																			<h3 class="elementor-heading-title elementor-size-default">Services</h3>
+																			<h4 class="elementor-heading-title elementor-size-default text-cap">Services</h4>
 																		</div>
 																	</div>
 																	<div class="elementor-element elementor-element-ec2c859 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ec2c859" data-element_type="widget" data-widget_type="divider.default">
@@ -99,16 +91,16 @@
 																		<div class="elementor-widget-container">
 																			<ul class="elementor-icon-list-items">
 																				<li class="elementor-icon-list-item">
-                                                                                    &ndash; Provision of educative publications for young leaders
+                                                                                    <span class="bullet">&there4;</span> Education
 																				</li>
 																				<li class="elementor-icon-list-item">
-                                                                                    &ndash; seminars and development trainings
+                                                                                    <span class="bullet">&there4;</span> Development trainings/Awareness
 																				</li>
 																				<li class="elementor-icon-list-item">
-                                                                                    &ndash; provision of educare materials
+                                                                                    <span class="bullet">&there4;</span> Provision of educare materials
 																				</li>
 																				<li class="elementor-icon-list-item">
-                                                                                    &ndash; mentorship
+                                                                                    <span class="bullet">&there4;</span> Mentorship
 																				</li>
 																			</ul>
 																		</div>

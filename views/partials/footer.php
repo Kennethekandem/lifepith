@@ -56,15 +56,17 @@
                     <div class="site-footer-above-section-2 site-footer-section site-footer-section-2">
                         <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-2">
                             <div class="footer-widget-area-inner site-info-inner">
-                                <section id="text-5" class="widget widget_text"><h2 class="widget-title">What We Do</h2> <div class="textwidget"><p>Advancing women’s human rights</p>
+                                <section id="text-5" class="widget widget_text"><h2 class="widget-title"></h2>
+                                    <div class="textwidget white-link">
+                                        <p><a href="about">Who we are</a></p>
                                         <hr />
-                                        <p>Healthcare, rehabilitation &amp; awareness</p>
+                                        <p><a href="theory">Our Theory of change</a></p>
                                         <hr />
-                                        <p>Building feminist leadership</p>
+                                        <p><a href="blog">Blog</a></p>
                                         <hr />
-                                        <p>Expanding reproductive freedoms</p>
+                                        <p><a href="contact">Contact Us</a></p>
                                         <hr />
-                                        <p>Education programmes</p>
+                                        <p><a href="volunteeer">Get Involved</a></p>
                                     </div>
                                 </section> </div>
                         </aside>
@@ -72,7 +74,7 @@
                     <div class="site-footer-above-section-3 site-footer-section site-footer-section-3">
                         <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-3">
                             <div class="footer-widget-area-inner site-info-inner">
-                                <section id="text-6" class="widget widget_text"><h2 class="widget-title">Subscribe</h2> <div class="textwidget"></div>
+                                <section id="text-6" class="widget widget_text"><h2 class="widget-title">Want to share in our journey?</h2> <h3 class="subscribe-h3">Subscribe to our newsletter!</h3> <div class="textwidget"></div>
                                 </section><section id="wpforms-widget-3" class="widget wpforms-widget"><div class="wpforms-container " id="wpforms-74"><form id="wpforms-form-74" class="wpforms-validate wpforms-form" data-formid="74" method="post" enctype="multipart/form-data" action="index.html" data-token="1f1bd9b95570cf8a2590d7ac3d03d7df"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-74-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><input type="email" id="wpforms-74-field_1" class="wpforms-field-large" name="wpforms[fields][1]" placeholder="Enter your email..."></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-74-field-hp" class="wpforms-field-label">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-74-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="74"><input type="hidden" name="wpforms[author]" value="20"><input type="hidden" name="wpforms[post_id]" value="6"><button type="submit" name="wpforms[submit]" class="wpforms-submit btn-dark" id="wpforms-submit-74" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Subscribe">Subscribe</button></div></form></div> </section> </div>
                         </aside>
                     </div>

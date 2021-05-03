@@ -24,7 +24,8 @@
                                             </div>
                                             <div class="elementor-element elementor-element-7a5fe2b elementor-widget elementor-widget-heading" data-id="7a5fe2b" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default">We are a youth-focused body committed to grooming young leaders with adequate knowledge for leadership, personal and societal development.</h5>
+                                                    <h5 class="elementor-heading-title elementor-size-default">We are a youth-focused organization
+                                                        investing in young leaders with education on leadership and life skills for a sustainable future.</h5>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-64b78e5 elementor-align-center elementor-widget elementor-widget-button" data-id="64b78e5" data-element_type="widget" data-widget_type="button.default">
@@ -58,23 +59,13 @@
                                             </div>
                                             <div class="elementor-element elementor-element-c388319 elementor-widget elementor-widget-heading" data-id="c388319" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h4 class="elementor-heading-title elementor-size-default">We see a global community of well-informed, principled and equipped young leaders with knowledge for personal and societal development to drive Nigeria to it’s peak potential.</h4>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-7426251 elementor-widget elementor-widget-text-editor" data-id="7426251" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-element elementor-element-a44fa29 elementor-widget elementor-widget-text-editor" data-id="a44fa29" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-text-editor elementor-clearfix">Our Mission</div>
-                                                    </div>
-                                                </div>
-                                                    <div class="elementor-text-editor elementor-clearfix">To educate, equip and foster the growth of young leaders particularly in marginalized communities by providing the knowledge, research materials and skills necessary for their development.</div>
+                                                    <h4 class="elementor-heading-title elementor-size-default">We see a global community of well-informed, principled and equipped young leaders with knowledge for personal and societal development to drive Nigeria to its peak potential.</h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-7f5aa4f elementor-widget elementor-widget-button" data-id="7f5aa4f" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a href="theory" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                        <a href="about" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-text">Read more</span>
                                                             </span>
@@ -117,7 +108,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-c8a49dc elementor-widget elementor-widget-heading" data-id="c8a49dc" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">Provision of educative publications for young leaders</a></h5>
+                                                    <h6 class="elementor-heading-title h6-size elementor-size-default"><a href="#">We believe education is the mother of leadership, therefore our resource center offers publications and toolkits that seek to develop every young leader.</a></h6>
                                                 </div>
                                             </div>
                                         </div>
@@ -136,7 +127,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-452366d elementor-widget elementor-widget-heading" data-id="452366d" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Seminars</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Development trainings/Awareness</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-792f1f3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="792f1f3" data-element_type="widget" data-widget_type="divider.default">
@@ -149,7 +140,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-c0ae1bf elementor-widget elementor-widget-heading" data-id="c0ae1bf" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">seminars and development trainings</a></h5>
+                                                    <h5 class="elementor-heading-title h6-size elementor-size-default"><a href="#">We host development trainings and drive awareness in communities on effective leadership, health and sustainable development.</a></h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -168,20 +159,13 @@
                                             </div>
                                             <div class="elementor-element elementor-element-ee605ae elementor-widget elementor-widget-heading" data-id="ee605ae" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Educare</h6>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-d56bed6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="d56bed6" data-element_type="widget" data-widget_type="divider.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-divider">
-                                                        <span class="elementor-divider-separator">
-                                                        </span>
+                                                    <div class="elementor-button-wrapper">
+                                                        <a href="<?= config::instagram(); ?>" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                            <span class="elementor-button-content-wrapper">
+                                                                <span class="elementor-button-text">See more <i class="fa fa-arrow-right"></i></span>
+                                                            </span>
+                                                        </a>
                                                     </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-7ea5748 elementor-widget elementor-widget-heading" data-id="7ea5748" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default"><a href="#">provision of educare materials</a></h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -212,7 +196,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-6321546 elementor-widget elementor-widget-heading" data-id="6321546" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h3 class="elementor-heading-title elementor-size-default">We need to reshape our own perception of how we view ourselves. We have to step up as women and take the lead.</h3>
+                                                    <h3 class="elementor-heading-title elementor-size-default">We need to reshape our own perception of how we lead ourselves and transcend this to others. Let’s step up together!</h3>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-c1ab1a8 elementor-align-justify elementor-widget elementor-widget-button" data-id="c1ab1a8" data-element_type="widget" data-widget_type="button.default">
@@ -220,7 +204,7 @@
                                                     <div class="elementor-button-wrapper">
                                                         <a href="volunteer" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                             <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-text">Volunteer</span>
+                                                                <span class="elementor-button-text">Get Involved</span>
                                                             </span>
                                                         </a>
                                                     </div>
@@ -246,7 +230,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-e3a0db7 elementor-widget elementor-widget-heading" data-id="e3a0db7" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">We write blogs that <b><u>intrigue & motivate</u></b></h2>
+                                                    <h2 class="elementor-heading-title elementor-size-default">We write blogs that <b><u>intrigue & enlighten</u></b></h2>
                                                 </div>
                                             </div>
                                         </div>
@@ -385,75 +369,6 @@
                             </div>
                         </div>
                     </section>
-                    <section class="elementor-section elementor-top-section elementor-element elementor-element-b9cef82 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b9cef82" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                        <div class="elementor-container elementor-column-gap-no">
-                            <div class="elementor-row">
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-da7565b" data-id="da7565b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                    <div class="elementor-column-wrap elementor-element-populated">
-                                        <div class="elementor-background-overlay"></div>
-                                        <div class="elementor-widget-wrap">
-                                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-17751ae elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="17751ae" data-element_type="section">
-                                                <div class="elementor-container elementor-column-gap-no">
-                                                    <div class="elementor-row">
-                                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1957c1a" data-id="1957c1a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-background-overlay"></div>
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-8228540 elementor-widget elementor-widget-heading" data-id="8228540" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <h5 class="elementor-heading-title elementor-size-default">Influencing the way people, organisations, and movements think and act.</h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d6078f2" data-id="d6078f2" data-element_type="column">
-                                    <div class="elementor-column-wrap elementor-element-populated">
-                                        <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-290562f elementor-widget elementor-widget-heading" data-id="290562f" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default">Our values</h5>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-fdf4825 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="fdf4825" data-element_type="widget" data-widget_type="divider.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-divider">
-                                                        <span class="elementor-divider-separator">
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-e2ea823 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e2ea823" data-element_type="widget" data-widget_type="icon-list.default">
-                                                <div class="elementor-widget-container">
-                                                    <ul class="elementor-icon-list-items">
-                                                        <li class="elementor-icon-list-item">
-                                                            Commitment
-                                                        </li>
-                                                        <li class="elementor-icon-list-item">
-                                                            Effective communication
-                                                        </li>
-                                                        <li class="elementor-icon-list-item">
-                                                            Innovation
-                                                        </li>
-                                                        <li class="elementor-icon-list-item">
-                                                            Measurable impact
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <?php require("views/partials/donate.php"); ?>
                 </div>
             </div>
         </div>

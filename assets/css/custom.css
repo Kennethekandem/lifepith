@@ -41,6 +41,39 @@
     object-fit: cover;
 }
 
+.h6-size {
+    font-size: 1.5rem !important;
+}
+.see-more-img {
+    height: 360px !important;
+    object-fit: cover;
+}
+.white-link a {
+    color: #fff;
+}
+.white-link a:hover {
+    color: #000000;
+}
+
+.subscribe-h3 {
+    font-size: 2.3rem;
+    color: #fff;
+}
+
+.mission-vision-font {
+    font-size: 1.6rem !important;
+    width: 97%;
+    line-height: 1.2 !important;
+}
+.text-cap {
+    text-transform: uppercase;
+}
+.bullet {
+    font-size: 2rem;
+    margin-top: -18px;
+    margin-right: 4px;
+}
+
 @media screen and (min-width: 790px) {
 
 

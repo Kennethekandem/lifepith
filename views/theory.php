@@ -70,7 +70,7 @@
 <!--                                                            <p>“The foundation of every state is the education of its youth.” - Diogenes</p>-->
                                                         </div>
                                                         <div class="elementor-column elementor-col-100 mb--top">
-                                                            <img class="theory-center-image" src="assets/images/center.jpeg" alt="">
+                                                            <img class="theory-center-image" src="assets/images/change.jpeg" alt="">
                                                         </div>
                                                     </div>
                                                 </div>
