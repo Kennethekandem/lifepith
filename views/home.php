@@ -307,7 +307,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-bd4a091 elementor-widget elementor-widget-heading" data-id="bd4a091" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Analyst</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Team Consultant</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-0583ee1 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0583ee1" data-element_type="widget" data-widget_type="divider.default">
@@ -339,7 +339,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-b856ddd elementor-widget elementor-widget-heading" data-id="b856ddd" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Human Resource Officer</h6>
+                                                    <h6 class="elementor-heading-title elementor-size-default">Programs Manager</h6>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-40b2903 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="40b2903" data-element_type="widget" data-widget_type="divider.default">

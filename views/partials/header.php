@@ -116,7 +116,8 @@
                                         <div class="ast-builder-button-wrap">
                                             <a class="ast-custom-button-link" href="volunteer" target="_self">
                                                 <div class=ast-custom-button>Get involved</div>
-                                            </a><a class="menu-link" href="volunteer" target="_self">Get involved</a>
+                                            </a>
+                                            <a class="menu-link" href="volunteer" target="_self">Get involved</a>
                                         </div>
                                     </div>
                                 </div>

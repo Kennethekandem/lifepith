@@ -31,7 +31,7 @@
 											<section class="elementor-section elementor-top-section elementor-element elementor-element-add0515 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="add0515" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 												<div class="elementor-container elementor-column-gap-no">
 													<div class="elementor-row">
-														<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a09f1b" data-id="2a09f1b" data-element_type="column">
+														<div class="elementor-column mt-5 elementor-col-50 elementor-top-column elementor-element elementor-element-2a09f1b" data-id="2a09f1b" data-element_type="column">
 															<div class="elementor-column-wrap elementor-element-populated">
 																<div class="elementor-widget-wrap">
 																	<div class="elementor-element elementor-element-7f8ade2 elementor-widget elementor-widget-heading" data-id="7f8ade2" data-element_type="widget" data-widget_type="heading.default">
@@ -47,7 +47,7 @@
 																</div>
 															</div>
 														</div>
-														<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a09f1b" data-id="2a09f1b" data-element_type="column">
+														<div class="elementor-column mt-5 elementor-col-50 elementor-top-column elementor-element elementor-element-2a09f1b" data-id="2a09f1b" data-element_type="column">
 															<div class="elementor-column-wrap elementor-element-populated">
 																<div class="elementor-widget-wrap">
 
