@@ -34,7 +34,7 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-e78b361 elementor-widget elementor-widget-heading" data-id="e78b361" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">Are you ready to switch up the narrative? Then, join our team of volunteers..</h2> </div>
+                                                    <h5 class="elementor-heading-title elementor-size-default">Our mission drives us to seek out low income communities and schools to reach with knowledge on leadership, life skills and health. We are looking for young vibrant and creative young leaders ready to switch up the narrative and create an impact.</h5> </div>
                                             </div>
                                         </div>
                                     </div>
@@ -50,7 +50,90 @@
                                         <div class="elementor-widget-wrap">
                                             <div class="elementor-element elementor-element-6b6393b elementor-widget elementor-widget-shortcode" data-id="6b6393b" data-element_type="widget" data-widget_type="shortcode.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-shortcode"><div class="wpforms-container " id="wpforms-5"><form id="wpforms-form-5" class="wpforms-validate wpforms-form" data-formid="5" method="post" enctype="multipart/form-data" action="/women-empowerment-02/contact/" data-token="45906dfee96425f2838a6ed8b2043e95"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-5-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-5-field_0">Name <span class="wpforms-required-label">*</span></label><div class="wpforms-field-row wpforms-field-large"><div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input type="text" id="wpforms-5-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" required><label for="wpforms-5-field_0" class="wpforms-field-sublabel after ">First</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="text" id="wpforms-5-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" required><label for="wpforms-5-field_0-last" class="wpforms-field-sublabel after ">Last</label></div></div></div><div id="wpforms-5-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-5-field_1">Email <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-5-field_1" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][1]" required></div><div id="wpforms-5-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-5-field_2">Message <span class="wpforms-required-label">*</span></label><textarea id="wpforms-5-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" required></textarea></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-5-field-hp" class="wpforms-field-label">Message</label><input type="text" name="wpforms[hp]" id="wpforms-5-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="5"><input type="hidden" name="wpforms[author]" value="20"><input type="hidden" name="wpforms[post_id]" value="10"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-5" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Send">Send</button></div></form></div> </div>
+                                                    <div class="elementor-shortcode">
+                                                        <div class="wpforms-container " id="wpforms-5">
+                                                            <form id="wpforms-form-5" class="wpforms-validate wpforms-form" data-formid="5" method="post" enctype="multipart/form-data" action="">
+                                                                <?php
+                                                                if(isset($_POST['volunteer'])) {
+                                                                    contact::volunteer($_POST['fname'], $_POST['lname'], $_POST['email'], $_POST['state'], $_POST['message']);
+                                                                }
+                                                                ?>
+                                                                <div class="wpforms-field-container">
+                                                                    <div id="wpforms-5-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0">
+                                                                        <label class="wpforms-field-label" for="wpforms-5-field_0">Name <span class="wpforms-required-label">*</span></label>
+                                                                        <div class="wpforms-field-row wpforms-field-large">
+                                                                            <div class="wpforms-field-row-block wpforms-first wpforms-one-half">
+                                                                                <input type="text" id="wpforms-5-field_0" class="wpforms-field-name-first wpforms-field-required" name="fname" required>
+                                                                                <label for="wpforms-5-field_0" class="wpforms-field-sublabel after ">First</label>
+                                                                            </div>
+                                                                            <div class="wpforms-field-row-block wpforms-one-half">
+                                                                                <input type="text" id="wpforms-5-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="lname" required>
+                                                                                <label for="wpforms-5-field_0-last" class="wpforms-field-sublabel after ">Last</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div id="wpforms-5-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1">
+                                                                        <label class="wpforms-field-label" for="wpforms-5-field_1">Email <span class="wpforms-required-label">*</span>
+                                                                        </label>
+                                                                        <input type="email" id="wpforms-5-field_1" class="wpforms-field-large wpforms-field-required" name="email" required>
+                                                                    </div>
+                                                                    <div id="wpforms-5-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1">
+                                                                        <label class="wpforms-field-label" for="wpforms-5-field_1">State
+                                                                            <span class="wpforms-required-label">*</span>
+                                                                        </label>
+                                                                        <select class="wpforms-field-large wpforms-field-required" name="state" required>
+                                                                            <option disabled selected>--Select State--</option>
+                                                                            <option value="Abia">Abia</option>
+                                                                            <option value="Adamawa">Adamawa</option>
+                                                                            <option value="Akwa Ibom">Akwa Ibom</option>
+                                                                            <option value="Anambra">Anambra</option>
+                                                                            <option value="Bauchi">Bauchi</option>
+                                                                            <option value="Bayelsa">Bayelsa</option>
+                                                                            <option value="Benue">Benue</option>
+                                                                            <option value="Borno">Borno</option>
+                                                                            <option value="Cross Rive">Cross River</option>
+                                                                            <option value="Delta">Delta</option>
+                                                                            <option value="Ebonyi">Ebonyi</option>
+                                                                            <option value="Edo">Edo</option>
+                                                                            <option value="Ekiti">Ekiti</option>
+                                                                            <option value="Enugu">Enugu</option>
+                                                                            <option value="FCT">Federal Capital Territory</option>
+                                                                            <option value="Gombe">Gombe</option>
+                                                                            <option value="Imo">Imo</option>
+                                                                            <option value="Jigawa">Jigawa</option>
+                                                                            <option value="Kaduna">Kaduna</option>
+                                                                            <option value="Kano">Kano</option>
+                                                                            <option value="Katsina">Katsina</option>
+                                                                            <option value="Kebbi">Kebbi</option>
+                                                                            <option value="Kogi">Kogi</option>
+                                                                            <option value="Kwara">Kwara</option>
+                                                                            <option value="Lagos">Lagos</option>
+                                                                            <option value="Nasarawa">Nasarawa</option>
+                                                                            <option value="Niger">Niger</option>
+                                                                            <option value="Ogun">Ogun</option>
+                                                                            <option value="Ondo">Ondo</option>
+                                                                            <option value="Osun">Osun</option>
+                                                                            <option value="Oyo">Oyo</option>
+                                                                            <option value="Plateau">Plateau</option>
+                                                                            <option value="Rivers">Rivers</option>
+                                                                            <option value="Sokoto">Sokoto</option>
+                                                                            <option value="Taraba">Taraba</option>
+                                                                            <option value="Yobe">Yobe</option>
+                                                                            <option value="Zamfara">Zamfara</option>
+                                                                        </select>
+                                                                    </div>
+                                                                    <div id="wpforms-5-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2">
+                                                                        <label class="wpforms-field-label" for="wpforms-5-field_2">Message <span class="wpforms-required-label">*</span>
+                                                                        </label>
+                                                                        <textarea id="wpforms-5-field_2" class="wpforms-field-medium wpforms-field-required" name="message" required></textarea>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="wpforms-submit-container">
+                                                                    <button type="submit" name="volunteer" class="wpforms-submit " id="wpforms-submit-5" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Send">Send</button>
+                                                                </div>
+                                                            </form>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -73,7 +156,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-c736162 elementor-widget elementor-widget-text-editor" data-id="c736162" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-text-editor elementor-clearfix"><p>We would love to hear from you and all the amazing things you have to say.</p></div>
+                                                    <div class="elementor-text-editor elementor-clearfix"><p>Get started by filling this form and we’ll get back to you.</p></div>
                                                 </div>
                                             </div>
                                         </div>
