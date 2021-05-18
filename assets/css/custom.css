@@ -1,93 +1,96 @@
 .btn-dark {
-    color: #fff;
-    background: #000000;
-    border-color: #000000;
+  color: #fff;
+  background: #000000;
+  border-color: #000000;
 }
 
 .mb--top {
-    margin-top: -40px;
+  margin-top: -40px;
 }
 
 .mb--bottom {
-    margin-bottom: 40px !important;
+  margin-bottom: 40px !important;
 }
 
 .nav-pills .nav-link {
-    color: #0d66c2;
+  color: #0d66c2;
 }
 
 .note-editable {
-    height: 350px;
+  height: 350px;
 }
 
 .likes i {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
-.tab-content>.active {
-    display: inherit !important;
+.tab-content > .active {
+  display: inherit !important;
 }
 
-.elementor-16 .elementor-element.elementor-element-79cfc23 > .elementor-widget-container {
-    padding: 0;
+.elementor-16
+  .elementor-element.elementor-element-79cfc23
+  > .elementor-widget-container {
+  padding: 0;
 }
 
 .elementor-widget-heading h4.elementor-heading-title {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
-.team-img img{
-    height: 500px !important;
-    object-fit: cover;
+.team-img img {
+  height: 500px !important;
+  object-fit: cover;
 }
 
 .h6-size {
-    font-size: 1.5rem !important;
+  font-size: 1.5rem !important;
 }
 .see-more-img {
-    height: 360px !important;
-    object-fit: cover;
+  height: 360px !important;
+  object-fit: cover;
 }
 .white-link a {
-    color: #fff;
+  color: #fff;
 }
 .white-link a:hover {
-    color: #000000;
+  color: #000000;
 }
 
 .subscribe-h3 {
-    font-size: 2.3rem;
-    color: #fff;
+  font-size: 2.3rem;
+  color: #fff;
 }
 
 .mission-vision-font {
-    font-size: 1.6rem !important;
-    width: 97%;
-    line-height: 1.2 !important;
+  font-size: 1.6rem !important;
+  width: 97%;
+  line-height: 1.2 !important;
 }
 .text-cap {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 .bullet {
-    font-size: 2rem;
-    margin-top: -18px;
-    margin-right: 4px;
+  font-size: 2rem;
+  margin-top: -18px;
+  margin-right: 4px;
 }
 
 @media screen and (min-width: 790px) {
-
-
-    .theory-p {
-        padding-right: 30px;
-    }
-    .big-qoute {
-        font-size: 2rem;
-        line-height: normal;
-    }
+  .theory-p {
+    padding-right: 30px;
+  }
+  .big-qoute {
+    font-size: 2rem;
+    line-height: normal;
+  }
 }
 
 @media screen and (max-width: 414px) {
-    .mb--top {
-        margin-top: 0;
-    }
+  .mb--top {
+    margin-top: 0;
+  }
+  .site-footer-above-section-3 {
+    margin-top: 50px;
+  }
 }

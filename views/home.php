@@ -80,6 +80,11 @@
                         </div>
                     </section>
                     <section class="elementor-section elementor-top-section elementor-element elementor-element-2e7567a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e7567a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                        <div class="elementor-element elementor-element-f47f12b elementor-widget mb--bottom elementor-widget-heading" data-id="f47f12b" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container" style="margin-bottom:70px;">
+                                <h6 class="elementor-heading-title elementor-size-default">Our Services</h6>
+                            </div>
+                        </div>
                         <div class="elementor-container elementor-column-gap-no">
                             <div class="elementor-row">
                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-49e03c3" data-id="49e03c3" data-element_type="column">

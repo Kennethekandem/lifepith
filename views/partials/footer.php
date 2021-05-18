@@ -15,10 +15,17 @@
                     <div class="site-footer-above-section-1 site-footer-section site-footer-section-1">
                         <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-1">
                             <div class="footer-widget-area-inner site-info-inner">
-                                <section id="media_image-3" class="widget widget_media_image" style="margin:0;"><img width="100" height="150" src="<?= config::logo_white() ?>" class="image attachment-thumbnail size-thumbnail" alt="Logo Regular" loading="lazy" style="max-width: 100%; height: auto;" srcset="<?= config::logo_white() ?> 1x, <?= config::logo_white() ?> 2x" /></section><section id="text-3" class="widget widget_text"> <div class="textwidget"><p>
+                                <section id="media_image-3" class="widget widget_media_image" style="margin:0;"><img width="100" height="150" src="<?= config::logo_white() ?>" class="image attachment-thumbnail size-thumbnail" alt="Logo Regular" loading="lazy" style="max-width: 100%; height: auto;" srcset="<?= config::logo_white() ?> 1x, <?= config::logo_white() ?> 2x" /></section>
+                                <section id="text-3" class="widget widget_text">
+                                    <div class="textwidget">
+                                        <p>
                                     </div>
-                                </section><section id="text-4" class="widget widget_text"><h2 class="widget-title">Follow Us</h2> <div class="textwidget"></div>
-                                </section> </div>
+                                </section>
+                                <section id="text-4" class="widget widget_text">
+                                    <h2 class="widget-title">Follow Us</h2>
+                                    <div class="textwidget"></div>
+                                </section>
+                            </div>
                         </aside>
                         <div class="ast-builder-layout-element ast-flex site-footer-focus-item" data-section="section-fb-social-icons-1">
                             <div class="ast-footer-social-1-wrap ast-footer-social-wrap">
@@ -33,11 +40,9 @@
                                     </a>
                                     <a href="<?= config::linkedin(); ?>" target="_blank" rel="noopener noreferrer" style="--color: #7acdee; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-twitter footer-social-item">
                                         <span class="ahfb-svg-iconset ast-inline-flex svg-baseline">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
-                                                 aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                              <title>Linkedin</title>
-                                              <path data-name="layer1"
-                                                    fill="#0077b7" d="M1.15 21.7h13V61h-13zm46.55-1.3c-5.7 0-9.1 2.1-12.7 6.7v-5.4H22V61h13.1V39.7c0-4.5 2.3-8.9 7.5-8.9s8.3 4.4 8.3 8.8V61H64V38.7c0-15.5-10.5-18.3-16.3-18.3zM7.7 2.6C3.4 2.6 0 5.7 0 9.5s3.4 6.9 7.7 6.9 7.7-3.1 7.7-6.9S12 2.6 7.7 2.6z"></path>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title" aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <title>Linkedin</title>
+                                                <path data-name="layer1" fill="#0077b7" d="M1.15 21.7h13V61h-13zm46.55-1.3c-5.7 0-9.1 2.1-12.7 6.7v-5.4H22V61h13.1V39.7c0-4.5 2.3-8.9 7.5-8.9s8.3 4.4 8.3 8.8V61H64V38.7c0-15.5-10.5-18.3-16.3-18.3zM7.7 2.6C3.4 2.6 0 5.7 0 9.5s3.4 6.9 7.7 6.9 7.7-3.1 7.7-6.9S12 2.6 7.7 2.6z"></path>
                                             </svg>
                                         </span>
                                     </a>
@@ -56,7 +61,8 @@
                     <div class="site-footer-above-section-2 site-footer-section site-footer-section-2">
                         <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-2">
                             <div class="footer-widget-area-inner site-info-inner">
-                                <section id="text-5" class="widget widget_text"><h2 class="widget-title"></h2>
+                                <section id="text-5" class="widget widget_text">
+                                    <h2 class="widget-title"></h2>
                                     <div class="textwidget white-link">
                                         <p><a href="about">Who we are</a></p>
                                         <hr />
@@ -68,14 +74,30 @@
                                         <hr />
                                         <p><a href="volunteeer">Get Involved</a></p>
                                     </div>
-                                </section> </div>
+                                </section>
+                            </div>
                         </aside>
                     </div>
                     <div class="site-footer-above-section-3 site-footer-section site-footer-section-3">
                         <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-3">
                             <div class="footer-widget-area-inner site-info-inner">
-                                <section id="text-6" class="widget widget_text"><h2 class="widget-title">Want to share in our journey?</h2> <h3 class="subscribe-h3">Subscribe to our newsletter!</h3> <div class="textwidget"></div>
-                                </section><section id="wpforms-widget-3" class="widget wpforms-widget"><div class="wpforms-container " id="wpforms-74"><form id="wpforms-form-74" class="wpforms-validate wpforms-form" data-formid="74" method="post" enctype="multipart/form-data" action="index.html" data-token="1f1bd9b95570cf8a2590d7ac3d03d7df"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-74-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><input type="email" id="wpforms-74-field_1" class="wpforms-field-large" name="wpforms[fields][1]" placeholder="Enter your email..."></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-74-field-hp" class="wpforms-field-label">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-74-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="74"><input type="hidden" name="wpforms[author]" value="20"><input type="hidden" name="wpforms[post_id]" value="6"><button type="submit" name="wpforms[submit]" class="wpforms-submit btn-dark" id="wpforms-submit-74" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Subscribe">Subscribe</button></div></form></div> </section> </div>
+                                <section id="text-6" class="widget widget_text">
+                                    <h2 class="widget-title">Want to share in our journey?</h2>
+                                    <h3 class="subscribe-h3">Subscribe to our newsletter!</h3>
+                                    <div class="textwidget"></div>
+                                </section>
+                                <section id="wpforms-widget-3" class="widget wpforms-widget">
+                                    <div class="wpforms-container " id="wpforms-74">
+                                        <form id="wpforms-form-74" class="wpforms-validate wpforms-form" data-formid="74" method="post" enctype="multipart/form-data" action="index.html" data-token="1f1bd9b95570cf8a2590d7ac3d03d7df"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript>
+                                            <div class="wpforms-field-container">
+                                                <div id="wpforms-74-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><input type="email" id="wpforms-74-field_1" class="wpforms-field-large" name="wpforms[fields][1]" placeholder="Enter your email..."></div>
+                                            </div>
+                                            <div class="wpforms-field wpforms-field-hp"><label for="wpforms-74-field-hp" class="wpforms-field-label">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-74-field-hp" class="wpforms-field-medium"></div>
+                                            <div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="74"><input type="hidden" name="wpforms[author]" value="20"><input type="hidden" name="wpforms[post_id]" value="6"><button type="submit" name="wpforms[submit]" class="wpforms-submit btn-dark" id="wpforms-submit-74" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Subscribe">Subscribe</button></div>
+                                        </form>
+                                    </div>
+                                </section>
+                            </div>
                         </aside>
                     </div>
                 </div>
@@ -86,14 +108,23 @@
                 <div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
                     <div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
                         <div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
-                            <div class="ast-footer-copyright"><div class="ast-footer-html-inner"><p>Copyright © <?= date("Y") ?> <?= config::name() ?></p>
-                                </div></div> </div>
+                            <div class="ast-footer-copyright">
+                                <div class="ast-footer-html-inner">
+                                    <p>Copyright © <?= date("Y") ?> <?= config::name() ?></p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div class="site-footer-below-section-2 site-footer-section site-footer-section-2">
                         <div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-2" data-section="section-fb-html-2">
-                            <div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p>Developed by
-                                        <a href="https://kennethekandem.netlify.app" target="_blank" style="color: #fff;">Kenneth Ekandem</a></p>
-                                </div></div> </div>
+                            <div class="ast-header-html inner-link-style-">
+                                <div class="ast-builder-html-element">
+                                    <p>Developed by
+                                        <a href="https://kennethekandem.netlify.app" target="_blank" style="color: #fff;">Kenneth Ekandem</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -103,7 +134,10 @@
 </div>
 <link rel='stylesheet' id='wpforms-base-css' href='assets/plugins/wpforms-lite/assets/css/wpforms-base.min-ver=1.6.5.css' media='all' />
 <script id='astra-theme-js-js-extra'>
-    var astra = {"break_point":"921","isRtl":""};
+    var astra = {
+        "break_point": "921",
+        "isRtl": ""
+    };
 </script>
 <script src='assets/js/minified/frontend.min-ver=3.0.3.js' id='astra-theme-js-js'></script>
 <script src='wp-includes/js/wp-embed.min-ver=5.6.2.js' id='wp-embed-js'></script>
@@ -117,17 +151,79 @@
 <script src='assets/plugins/elementor/assets/lib/share-link/share-link.min-ver=3.1.2.js' id='share-link-js'></script>
 <script src='assets/plugins/elementor/assets/lib/swiper/swiper.min-ver=5.3.6.js' id='swiper-js'></script>
 <script id='elementor-frontend-js-before'>
-    var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false,"isImprovedAssetsLoading":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.1.2","is_static":false,"experimentalFeatures":[],"urls":{"assets":"https:\/\/websitedemos.net\/women-empowerment-02\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":6,"title":"Women%20Empowerment%20NGO%20%E2%80%93%20Women%20Empowerment%20NGO%20Website","excerpt":"","featuredImage":false}};
+    var elementorFrontendConfig = {
+        "environmentMode": {
+            "edit": false,
+            "wpPreview": false,
+            "isScriptDebug": false,
+            "isImprovedAssetsLoading": false
+        },
+        "i18n": {
+            "shareOnFacebook": "Share on Facebook",
+            "shareOnTwitter": "Share on Twitter",
+            "pinIt": "Pin it",
+            "download": "Download",
+            "downloadImage": "Download image",
+            "fullscreen": "Fullscreen",
+            "zoom": "Zoom",
+            "share": "Share",
+            "playVideo": "Play Video",
+            "previous": "Previous",
+            "next": "Next",
+            "close": "Close"
+        },
+        "is_rtl": false,
+        "breakpoints": {
+            "xs": 0,
+            "sm": 480,
+            "md": 768,
+            "lg": 1025,
+            "xl": 1440,
+            "xxl": 1600
+        },
+        "version": "3.1.2",
+        "is_static": false,
+        "experimentalFeatures": [],
+        "urls": {
+            "assets": "https:\/\/websitedemos.net\/women-empowerment-02\/wp-content\/plugins\/elementor\/assets\/"
+        },
+        "settings": {
+            "page": [],
+            "editorPreferences": []
+        },
+        "kit": {
+            "global_image_lightbox": "yes",
+            "lightbox_enable_counter": "yes",
+            "lightbox_enable_fullscreen": "yes",
+            "lightbox_enable_zoom": "yes",
+            "lightbox_enable_share": "yes",
+            "lightbox_title_src": "title",
+            "lightbox_description_src": "description"
+        },
+        "post": {
+            "id": 6,
+            "title": "Women%20Empowerment%20NGO%20%E2%80%93%20Women%20Empowerment%20NGO%20Website",
+            "excerpt": "",
+            "featuredImage": false
+        }
+    };
 </script>
 <script src='assets/plugins/elementor/assets/js/frontend.min-ver=3.1.2.js' id='elementor-frontend-js'></script>
 <script src='assets/plugins/elementor/assets/js/preloaded-elements-handlers.min-ver=3.1.2.js' id='preloaded-elements-handlers-js'></script>
 <script src='wp-includes/js/underscore.min-ver=1.8.3.js' id='underscore-js'></script>
 <script id='wp-util-js-extra'>
-    var _wpUtilSettings = {"ajax":{"url":"\/women-empowerment-02\/wp-admin\/admin-ajax.php"}};
+    var _wpUtilSettings = {
+        "ajax": {
+            "url": "\/women-empowerment-02\/wp-admin\/admin-ajax.php"
+        }
+    };
 </script>
 <script src='wp-includes/js/wp-util.min-ver=5.6.2.js' id='wp-util-js'></script>
 <script id='wpforms-elementor-js-extra'>
-    var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+    var wpformsElementorVars = {
+        "captcha_provider": "recaptcha",
+        "recaptcha_type": "v2"
+    };
 </script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
@@ -136,11 +232,46 @@
 <script src='assets/plugins/wpforms-lite/assets/js/mailcheck.min-ver=1.1.2.js' id='wpforms-mailcheck-js'></script>
 <script src='assets/plugins/wpforms-lite/assets/js/wpforms-ver=1.6.5.js' id='wpforms-js'></script>
 <script>
-    /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+    /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function() {
+        var t, e = location.hash.substring(1);
+        /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
+    }, !1);
 </script>
 <script type='text/javascript'>
     /* <![CDATA[ */
-    var wpforms_settings = {"val_required":"This field is required.","val_url":"Please enter a valid URL.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_confirm":"Field values do not match.","val_fileextension":"File type is not allowed.","val_filesize":"File exceeds max size allowed. File was not uploaded.","val_time12h":"Please enter time in 12-hour AM\/PM format (eg 8:45 AM).","val_time24h":"Please enter time in 24-hour format (eg 22:45).","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","val_post_max_size":"The total size of the selected files {totalSize} Mb exceeds the allowed limit {maxSize} Mb.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_empty_blanks":"Please fill out all blanks.","post_max_size":"268435456","uuid_cookie":"","locale":"en","wpforms_plugin_url":"https:\/\/websitedemos.net\/women-empowerment-02\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/websitedemos.net\/women-empowerment-02\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1"}
+    var wpforms_settings = {
+        "val_required": "This field is required.",
+        "val_url": "Please enter a valid URL.",
+        "val_email": "Please enter a valid email address.",
+        "val_email_suggestion": "Did you mean {suggestion}?",
+        "val_email_suggestion_title": "Click to accept this suggestion.",
+        "val_email_restricted": "This email address is not allowed.",
+        "val_number": "Please enter a valid number.",
+        "val_number_positive": "Please enter a valid positive number.",
+        "val_confirm": "Field values do not match.",
+        "val_fileextension": "File type is not allowed.",
+        "val_filesize": "File exceeds max size allowed. File was not uploaded.",
+        "val_time12h": "Please enter time in 12-hour AM\/PM format (eg 8:45 AM).",
+        "val_time24h": "Please enter time in 24-hour format (eg 22:45).",
+        "val_requiredpayment": "Payment is required.",
+        "val_creditcard": "Please enter a valid credit card number.",
+        "val_post_max_size": "The total size of the selected files {totalSize} Mb exceeds the allowed limit {maxSize} Mb.",
+        "val_checklimit": "You have exceeded the number of allowed selections: {#}.",
+        "val_limit_characters": "{count} of {limit} max characters.",
+        "val_limit_words": "{count} of {limit} max words.",
+        "val_recaptcha_fail_msg": "Google reCAPTCHA verification failed, please try again later.",
+        "val_empty_blanks": "Please fill out all blanks.",
+        "post_max_size": "268435456",
+        "uuid_cookie": "",
+        "locale": "en",
+        "wpforms_plugin_url": "https:\/\/websitedemos.net\/women-empowerment-02\/wp-content\/plugins\/wpforms-lite\/",
+        "gdpr": "",
+        "ajaxurl": "https:\/\/websitedemos.net\/women-empowerment-02\/wp-admin\/admin-ajax.php",
+        "mailcheck_enabled": "1",
+        "mailcheck_domains": [],
+        "mailcheck_toplevel_domains": ["dev"],
+        "is_ssl": "1"
+    }
     /* ]]> */
 </script>
 
@@ -155,12 +286,20 @@
     };
     */
     (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
+        var d = document,
+            s = d.createElement('script');
         s.src = 'https://lifepith.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="mcjs">
+    ! function(c, h, i, m, p) {
+        m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)
+    }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/924180068373cb80693f1dc31/61200fbe9529eea055b088ce6.js");
+</script>
 </body>
+
 </html>
