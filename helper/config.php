@@ -13,7 +13,7 @@ class config {
     public static function base() {
 
         if(config::production()) {
-            return 'https://lifepith.org.ng';
+            return 'https://lifepith.ng';
         }else {
             return 'https://lifepith.test';
         }

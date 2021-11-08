@@ -106,7 +106,7 @@
     <aside id="sidebar" class="u-sidebar">
         <div class="u-sidebar-inner">
             <header class="u-sidebar-header">
-                <a class="u-sidebar-logo" href="index.html">
+                <a class="u-sidebar-logo" href="/">
                     <img class="img-fluid" src="assets/admin/img/logo.png" width="124" alt="Stream Dashboard">
                 </a>
             </header>

@@ -45,7 +45,7 @@ if($page == 'login' || $page == 'logout') {
     require("views/admin/" . $page . '.php');
 } else {
     require("views/admin/partials/header.php");
-    require("views/admin/" . $page . '.php');
+    require("views/admin/" . $page . ".php");
     require("views/admin/partials/footer.php");
 }
 

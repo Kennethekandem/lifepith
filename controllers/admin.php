@@ -22,4 +22,21 @@ class admin
             header("location:admin/blogs");
         }
     }
+
+    /*public static function register($name, $email, $password) {
+        global $db;
+
+        $register = $db->query("INSERT INTO admin (name, email, password) VALUES (:name, :email, :password)", array(
+            'name' => $name,
+            'email' => request::secureTxt($email),
+            'password' => request::securePwd($password)
+        ));
+
+        if($register) {
+            respond::alert('success', 'added admin', 'hello, admin added');
+        }else {
+            return false;
+        }
+
+    }*/
 }

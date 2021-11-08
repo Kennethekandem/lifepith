@@ -72,7 +72,6 @@
                                         <hr />
                                         <p><a href="contact">Contact Us</a></p>
                                         <hr />
-                                        <p><a href="volunteeer">Get Involved</a></p>
                                     </div>
                                 </section>
                             </div>
