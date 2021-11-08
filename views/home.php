@@ -158,7 +158,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-image">
                                                         <a href="#">
-                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/new/IMG_1107.jpeg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/new/IMG_1107.jpeg 505w, assets/uploads/sites/632/2020/new/IMG_1107.jpeg 300w, assets/uploads/sites/632/2020/new/IMG_1107.jpeg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
+                                                            <img width="505" height="335" src="assets/uploads/sites/632/2020/new/8.jpg" class="attachment-full size-full" alt="What we do" loading="lazy" srcset="assets/uploads/sites/632/2020/new/8.jpg 505w, assets/uploads/sites/632/2020/new/8.jpg 300w, assets/uploads/sites/632/2020/new/8.jpg 400w" sizes="(max-width: 505px) 100vw, 505px" /> </a>
                                                     </div>
                                                 </div>
                                             </div>
