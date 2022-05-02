@@ -278,11 +278,6 @@
                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-539814f" data-id="539814f" data-element_type="column">
                                     <div class="elementor-column-wrap elementor-element-populated">
                                         <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-f66a07e elementor-widget elementor-widget-heading" data-id="f66a07e" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Team Lead</h6>
-                                                </div>
-                                            </div>
                                             <div class="elementor-element elementor-element-33ef1d0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="33ef1d0" data-element_type="widget" data-widget_type="divider.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-divider">
@@ -293,8 +288,8 @@
                                             </div>
                                             <div class="elementor-element elementor-element-442fe04 elementor-widget elementor-widget-heading" data-id="442fe04" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container team-img">
-                                                    <img src="assets/images/becky.jpeg" alt="">
-                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Rebecca Udom</a></h4>
+                                                    <img src="assets/images/becky.png" alt="">
+                                                    <h4 class="elementor-heading-title elementor-size-default"><a href="#">Rebecca Udom</a> <span style="font-size: 1.2rem"><i>Team Lead</i></span></h4>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-c000ad2 elementor-widget elementor-widget-text-editor" data-id="c000ad2" data-element_type="widget" data-widget_type="text-editor.default">
@@ -310,11 +305,6 @@
                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e809fd4" data-id="e809fd4" data-element_type="column">
                                     <div class="elementor-column-wrap elementor-element-populated">
                                         <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-bd4a091 elementor-widget elementor-widget-heading" data-id="bd4a091" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Team Consultant</h6>
-                                                </div>
-                                            </div>
                                             <div class="elementor-element elementor-element-0583ee1 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0583ee1" data-element_type="widget" data-widget_type="divider.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-divider">
@@ -342,11 +332,6 @@
                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b168629" data-id="b168629" data-element_type="column">
                                     <div class="elementor-column-wrap elementor-element-populated">
                                         <div class="elementor-widget-wrap">
-                                            <div class="elementor-element elementor-element-b856ddd elementor-widget elementor-widget-heading" data-id="b856ddd" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h6 class="elementor-heading-title elementor-size-default">Programs Manager</h6>
-                                                </div>
-                                            </div>
                                             <div class="elementor-element elementor-element-40b2903 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="40b2903" data-element_type="widget" data-widget_type="divider.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-divider">

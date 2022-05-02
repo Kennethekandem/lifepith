@@ -87,12 +87,11 @@
                                 </section>
                                 <section id="wpforms-widget-3" class="widget wpforms-widget">
                                     <div class="wpforms-container " id="wpforms-74">
-                                        <form id="wpforms-form-74" class="wpforms-validate wpforms-form" data-formid="74" method="post" enctype="multipart/form-data" action="index.html" data-token="1f1bd9b95570cf8a2590d7ac3d03d7df"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript>
+                                        <form id="wpforms-form-74" class="wpforms-validate wpforms-form" action="https://lifepith.us20.list-manage.com/subscribe/post?u=9546a8d20f0c565831aebb13e&amp;id=a0499c2b06" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                             <div class="wpforms-field-container">
-                                                <div id="wpforms-74-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><input type="email" id="wpforms-74-field_1" class="wpforms-field-large" name="wpforms[fields][1]" placeholder="Enter your email..."></div>
+                                                <div id="wpforms-74-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><input type="email" value="" name="EMAIL" class="wpforms-field-large" id="mce-EMAIL" placeholder="Enter your email..."></div>
                                             </div>
-                                            <div class="wpforms-field wpforms-field-hp"><label for="wpforms-74-field-hp" class="wpforms-field-label">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-74-field-hp" class="wpforms-field-medium"></div>
-                                            <div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="74"><input type="hidden" name="wpforms[author]" value="20"><input type="hidden" name="wpforms[post_id]" value="6"><button type="submit" name="wpforms[submit]" class="wpforms-submit btn-dark" id="wpforms-submit-74" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Subscribe">Subscribe</button></div>
+                                            <div class="wpforms-submit-container"><button type="submit" value="Subscribe" name="subscribe" class="wpforms-submit btn-dark" id="mc-embedded-subscribe" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Subscribe">Subscribe</button></div>
                                         </form>
                                     </div>
                                 </section>
@@ -149,6 +148,8 @@
 <script src='assets/plugins/elementor/assets/lib/waypoints/waypoints.min-ver=4.0.2.js' id='elementor-waypoints-js'></script>
 <script src='assets/plugins/elementor/assets/lib/share-link/share-link.min-ver=3.1.2.js' id='share-link-js'></script>
 <script src='assets/plugins/elementor/assets/lib/swiper/swiper.min-ver=5.3.6.js' id='swiper-js'></script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <script id='elementor-frontend-js-before'>
     var elementorFrontendConfig = {
         "environmentMode": {

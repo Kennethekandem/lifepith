@@ -25,7 +25,7 @@ class config {
     }
 
     public static function email() {
-        return "hello@lifepith.org.ng";
+        return "hello@lifepith.ng";
     }
 
     public static function name() {
@@ -110,7 +110,7 @@ class config {
 
     public static function instagram()
     {
-        return 'https://www.instagram.com/lifepith_blog/';
+        return 'https://www.instagram.com/lifepithng/';
     }
 
     public static function facebook()

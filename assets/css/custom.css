@@ -86,11 +86,19 @@
   }
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 415px) {
+  .theory-change-img {
+    display: none;
+  }
+}
+@media screen and (max-width:  413px) {
   .mb--top {
     margin-top: 0;
   }
   .site-footer-above-section-3 {
     margin-top: 50px;
+  }
+  .theory-change-img  {
+    display: block;
   }
 }
